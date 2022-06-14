@@ -15,7 +15,7 @@ The principle is to collect the information of specified test items for each cas
 
 ## Code
 Our pipeline is available for MIMIC-III and MIMIC-IV.
-XXX.py is the main file used to integrate all the queried data and generate the data into CSV.
+XXX.py(python) is the main file used to integrate all the queried data and generate the data into CSV.
 Other .sql files should be stored in the sql database to be called in the main program.
 
 
