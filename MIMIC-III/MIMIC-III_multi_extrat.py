@@ -65,8 +65,6 @@ print('sub time cost',sub_end - sub_start,'s')
 print("SUB",ALL_SUB)
 print("len_SUB",len(ALL_SUB ))
 print()
-# ALL_SUB = [58526], [54610], [9895], [23018], [533], [55853], [87977], [60039], [23804], [68591]
-# ids = [100001, 100003, 100006, 100007, 100009, 100010, 100011, 100012, 100014, 100016]
 
 def create_dataset(data):
     # conn1 = get_connect()
