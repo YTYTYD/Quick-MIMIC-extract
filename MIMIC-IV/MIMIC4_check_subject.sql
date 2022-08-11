@@ -1,6 +1,6 @@
 exec MIMIC4_check_subject @hadm_id='20475282'
 
-alter proc MIMIC4_check_subject (
+create proc MIMIC4_check_subject (
 @hadm_id  varchar(10)
 ) 
 as
