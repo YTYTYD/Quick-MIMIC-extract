@@ -1,0 +1,701 @@
+HR,O2Sat,Temp,SBP,MAP,DBP,Resp,EtCO2,BaseExcess,HCO3,FiO2,pH,PaCO2,SaO2,AST,BUN,Alkalinephos,Calcium,Chloride,Creatinine,Bilirubin_direct,Glucose,Lactate,Magnesium,Phosphate,Potassium,Bilirubin_total,TroponinI,Hct,Hgb,PTT,WBC,Fibrinogen,Platelets,Age,Gender,Unit1,Unit2,HospAdmTime,ICULOS,Strategy,GSN,NDC,TEXT
+,,,,,,,,,24.0,,,,,,14.0,,,92.0,0.8,,131.0,,,,4.4,,,36.9,12.4,29.1,9.6,,,49,0,1,0,278,1,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,2,,,,
+,,,,,,,,,,,7.41,40.0,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,3,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,4,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,5,,,,
+116.0,,97.0,124.0,,77.5,21.0,,,,,,,100.0,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,6,,,,
+119.5,,,121.0,,69.5,19.0,,,,,,,97.5,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,7,,,,
+119.5,,,124.0,,70.0,20.5,,,,,,,97.5,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,8,,,,
+117.0,,97.4000015258789,136.0,,89.0,20.5,,0.0,,,7.34,48.0,100.0,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,9,,,,
+117.5,,97.4000015258789,134.0,,71.5,19.0,,,,,,,97.5,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,10,,,,
+116.5,,,138.5,,52.0,19.0,,,,,,,95.0,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,11,,,,
+116.0,,,143.0,,65.0,19.0,,0.0,,,7.4,37.0,95.5,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,12,,,,
+114.5,,97.80000305175781,127.5,,71.5,21.0,,,,,,,96.5,,,,,,,,178.0,,,,,,,,,,,,,49,0,1,0,278,13,,,,"Resp Care
+Pt. appeared very uncomfortable @ start of shift;dyspnic, tachypnic, diaphoretic and very decreased aeration t/o. Status did not change despite being on a 15mcg/hr continous neb for 1 hr and numerous tx's since arrival to ed. Placed on Heliox to facilitate ventilation. Abg's improved, work of breath also much improved. Heliox weaned off completely @ 0100. Nebs q2-3. BS: exp. wheezes t/o aeration improved significantly. Will comtinue to follow.
+;7p to 7a Micu Progress Note
+
+Neuro - Remains alert and oriented x 3. MAE.
+
+Resp - Beg of shift pt became increasingly sob- decreased aeration noted on lung exam,  RR in the low 30s, pt was diaphoretic and subjectively stated her breathing felt worse. Treated with q 1 hr nebs without relief. Treated with heliox therapy for several hours with vast improvement. See careview for ABGS. Pt weaned down to 02 3lnc and has been experiencing 02 sats &gt; 94 % with RR in the upper teens and low 20.'s since. Now able to speak in full sentences. LS now with diffuse expir wheezing. Receiving nebs q 2-3hrs as well as methylprednisone 80 mg iv q 8hrs. Prod cough clear white sputum. Need sputum c+s sent.
+
+C-V - HR 100-118 ST, no ectopy noted. BP 114-145/50-80 via NBP. Given 5 mg coumadin for hx PE. Coags sent this am.
+
+GI - Abd soft. Tolerating low fat diet. No stool. + flatus.
+
+F/E - Ns infusing at 150ccs/hr. Pt voiding on bedpan - u/o 1 liter this shift.
+
+ID - Afeb. + bandemia on admit WBC. Currently being treated with azithromycin for copd flare. WBC 13.6 today ( previously 9.6).
+
+Social - No phone calls or visitors.
+
+
+Plan - Continue to monitor resp status closely - Nebs q2-3hrs prn, iv steroids. ? call-out to floor if continues to remain stable.
+
+
+
+
+
+
+A
+;NARRATIVE NURSING NOTE
+RESP: PT HAS HAD 2 EPISODES OF SOB WITH SAO2 DECREASING TO 89-91% ON 3L N/C. SAO2 OTHERWISE &gt; 92%. LUNGS HAVE HAD EXP WHEEZES THROUGHOUT WITH AUDIBLE WHEEZES WHEN SOB. RECIEVED NEBS Q2H WITH NEBS ALSO GIVEN WITH SOB. HAS NOT REQUIRED HELIOX DURING THE DAY.
+
+CV: CM PATTERN SR/ST WITH HR 95-127 RANGE, NO ECTOPY NOTED. B/P HAS RANGED 113/62-149/86, B/P TENDS TO INCREASE WITH FAMILY VISITS.PPP BILAT, PT WAS WEARING SCD'S BUT REMOVED THEM LATE AFERNOON. AFEBRILE. SKIN W/D TO TOUCH, NORMAL BROWN IN COLOR, DOES BECOME DIAPHORETIC WITH SOB.
+
+NEURO: A&amp;OX3, ABLE TO MAE AND FOLLOW COMMANDS. NO C/O PAIN OR DISCOMFORT VOICED.
+
+GI/GU:PT VOIDING CLEAR YELLOW URINE IN LARGE AMOUNTS. TOLERATING PO DIET WELL. BS +X4 QUADS. ABD SOFT AND NON-TENDER.
+
+SOCIAL: SISTER IN WITH PT, PT AND SISTER WOULD LIKE TO DO PAPERWORK TO APPOINT SISTER HEALTH CARE PROXY. SISTER VOICED CONCERNS ABOUT PT'S HEALTH AND WOULD LIKE TO SPEAK TO THE SOCIAL WORKER ABOUT POST HOSPITAL ISSUES.
+"
+108.5,,97.80000305175781,116.0,,62.5,21.5,,,,,,,98.0,,,,,,,,178.0,,,,,,,,,,,,,49,0,1,0,278,14,,,,
+104.0,,,117.0,,66.0,20.0,,,,,,,98.5,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,15,,,,
+104.5,,,114.5,,70.0,20.0,,,,,,,97.5,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,16,,,,
+107.5,,97.0,128.5,,65.0,19.5,,,24.0,,,,95.5,,16.0,,,103.0,0.6,,129.0,,1.6,,3.7,,,30.600000190734864,10.300000095367432,29.8,13.6,,,49,0,1,0,278,17,,,,
+104.5,,97.0,131.5,,66.5,17.0,,,24.0,,,,97.0,,16.0,,,103.0,0.6,,129.0,,1.6,,3.7,,,30.600000190734864,10.300000095367432,29.8,13.6,,,49,0,1,0,278,18,,,,
+97.5,,,120.5,,72.5,17.5,,,,,,,100.0,,,,,,,,132.0,,,,,,,,,,,,,49,0,1,0,278,19,,,,
+101.5,,,124.5,,72.0,17.5,,,,,,,98.0,,,,,,,,132.0,,,,,,,,,,,,,49,0,1,0,278,20,,,,
+107.5,,97.0999984741211,120.0,,67.0,18.5,,,,,,,97.0,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,21,,,,
+108.5,,97.0999984741211,113.0,,62.5,15.0,,,,,,,99.0,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,22,,,,
+118.5,,,118.0,,64.5,12.0,,,,,,,100.0,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,23,,,,
+123.5,,,123.5,,60.0,22.0,,,,,,,98.0,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,24,,,,
+115.0,,97.0,131.0,,63.0,23.5,,,,,,,97.5,,,,,,,,183.0,,,,,,,,,,,,,49,0,1,0,278,25,,,,
+110.0,,97.0,139.0,,63.0,19.0,,,,,,,98.66666666666667,,,,,,,,181.0,,,,,,,,,,,,,49,0,1,0,278,26,,,,
+111.5,,,138.5,,69.5,19.5,,,,,,,97.0,,,,,,,,179.0,,,,,,,,,,,,,49,0,1,0,278,27,,,,
+113.5,,,143.0,,85.5,21.0,,,,,,,97.5,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,28,,,,
+112.0,,,152.0,,93.5,21.5,,,,,,,98.0,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,29,,,,
+110.5,,,158.0,,95.0,17.5,,,,,,,97.5,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,30,,,,
+111.0,,,154.0,,89.5,15.5,,,,,,,97.0,,,,,,,,155.0,,,,,,,,,,,,,49,0,1,0,278,31,,,,
+117.0,,,146.5,,89.0,16.5,,,,,,,97.5,,,,,,,,155.0,,,,,,,,,,,,,49,0,1,0,278,32,,,,
+121.0,,98.80000305175781,148.5,,91.0,18.5,,,,,,,98.0,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,33,,,,
+117.5,,98.80000305175781,152.5,,89.5,16.0,,,,,,,96.5,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,34,,,,
+109.0,,,152.0,,86.5,14.5,,,,,,,96.5,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,35,,,,
+107.0,,,139.5,,77.5,17.5,,,,,,,96.0,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,36,,,,
+108.5,,98.5999984741211,138.5,,74.5,17.0,,,,,,,96.0,,,,,,,,145.0,,,,,,,,,,,,,49,0,1,0,278,37,,,,"7p to 7a Micu Progress Note
+
+Neuro - Alert and oriented x 3. Pt anxious at times. Given .5 mg ativan po to aid sleep without effect. Dose repeated several hrs later and pt able to sleep. Plan is for psych consult tomorrow.
+
+Resp - Maintained on 3L 02 NC with sats &gt; 94%. Pt experienced one episode where sats dropped to 79% and LS greatly diminished with poor air movement. Resp therapist had administered neb immediately prior to episode, but previous neb was 3 hrs ago. Diffuse wheezes noted throughout the noc. + rhinitis and prod cough clear sputum.
+
+C-V - HR 87-119 ST. BP 130-150/80-90.
+
+GI - Abd soft. +BS. Tolerating po's without difficulty.
+
+F/E - Using bedpan to void. Urine output 1250ccs since mn. Continues to be hyponatremic, Na 131 this am. K 4.4. Mg 1.5.
+
+ID - Afeb. WBC 16.6. Receiving azithromycin qd. ? pt developing sinusitis. c/o sinus congestion and discomfort.
+
+Endo - RISS
+
+A+P - Pt continues to experience severe episodes of resp distress. Unable to tolerate &gt; 2hrs without receiving nebs. Needs ongoing MICU care and observation.
+;NARRATIVE NURSING NOTE:
+RESP; PT WITH EXP WHEEZES THROUGHOUT, AUDIBLE AT TIMES OF SOB AND DISTRESS. PT NOW ON 3L N/C. @ 1000 PT BECAME ANXIOUS AND SOB DURING AN ATTEMPT TO DRAW ABG'S. ENCOURAGED PT TO DEEP BREATH SLOWLY. PT WITH AUDIBLE WHEEZES AND DECREASED AIR EXCHANGE. PT RECIEVED SEVERAL PRN NEB RX WITH SCHEDULED RX, NEBS PROVIDED TEMP RELIEF. SOB WOULD INCREASE WITH COUGHING EPISODES. MSO4 2MG IV AND ATIVAN 1MG IV  TAKEN WITH EFFECTIVE RILIEF NOTED AFTER ATIVAN. PT [**Name (NI) **] X SEVERAL HOURS AFTER. @ THIS TIME PT LUNGS WITH EXP WHEEZES THROUGHOUT, SAO2 97% ON 3L N/C. NO DISTRESS. PT STARTED ON BENZONATE 100MG TID AND ROBITUSSIN SYRUP.
+
+CV: CM PATTERN SR-ST WITH H/R MOSTLY 115-135. PT WITH RATE IN 130 RANGE WITH INCREASED SOB, OTHERWISE RATE 110-120 RANGE. B/P RANGE 130/80-140/90. WHEN VERY SOB B/P 160/89. AFEBRILE. SKIN W/D TO TOUCH NORMAL BROWN IN COLOR. WHEN PT VERY SOB SKIN DIAPHORETIC. PPP BILAT. PT REFUSED TO WEAR SCD'S.
+
+NEURO: A&amp;OX3, PT ABLE TO FOLLOW COMMANDS AND MAE. NO C/O NUMBNESS OR TINGLING.
+
+GU: FOLEY CATH INSERTED WITHOUT DIFFICULTY. 100CD CLEAR YELLOW URINE OBTAINED. PT [**Name (NI) 11**] [**Name (NI) 4401**] WELL.
+
+GI:  BS+X4QUADS. [**Name (NI) 11**] REG DIET WELL. ABD SOFT NON-TENDER TO TOUCH.
+
+SKIN: INTACT
+
+SOCIAL: SPOKE TO SISTERS ON PHONE, INFORMED SISTERS THAT PT WAS HAVING A DIFFICULT DAY AND NO VISITORS OTHER THAN SONS WOULD BE ALLOWED IN AND SISTERS WERE IN AGREEMENT THAT WAS A GOOD PLAN. PT ALSO AWARE.
+"
+108.0,,98.5999984741211,142.0,,81.0,16.5,,,,,,,98.5,,,,,,,,145.0,,,,,,,,,,,,,49,0,1,0,278,38,,,,
+107.5,,,132.5,,79.0,18.5,,,,,,,99.0,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,39,,,,
+95.5,,,137.5,,81.0,18.5,,,,,,,99.0,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,40,,,,
+86.5,,98.0,143.0,,83.5,17.5,,,,,,,99.5,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,41,,,,
+95.5,,98.0,147.0,,88.0,19.0,,,26.0,,,,89.5,,12.0,,8.699999904632568,101.0,0.7,,131.0,,1.5,4.3,4.4,,,30.399999809265136,10.199999904632568,32.0,16.6,,,49,0,1,0,278,42,,,,
+96.5,,,144.5,,86.5,18.0,,,,,,,100.0,,,,,,,,149.0,,,,,,,,,,,,,49,0,1,0,278,43,,,,
+97.5,,,138.0,,82.0,17.5,,,,,,,99.5,,,,,,,,149.0,,,,,,,,,,,,,49,0,1,0,278,44,,,,
+106.5,,97.19999694824219,139.0,,89.0,18.0,,,,,,,99.0,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,45,,,,
+109.5,,97.19999694824219,144.0,,96.0,20.0,,,,,,,98.0,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,46,,,,
+108.0,,,146.5,,88.0,21.0,,,,,,,97.5,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,47,,,,
+117.0,67.0,,149.0,,80.0,21.0,,2.0,,,7.36,53.0,88.0,,,,,,,,,4.5,,,,,,,,,,,,49,0,1,0,278,48,,,,
+129.5,,97.0,154.5,,84.0,20.5,,,,,,,95.33333333333333,,,,,,,,202.0,,,,,,,,,,,,,49,0,1,0,278,49,,,,
+131.5,,97.0,148.5,,90.0,20.5,,,,,,,93.5,,,,,,,,202.0,,,,,,,,,,,,,49,0,1,0,278,50,,,,
+125.5,,,134.5,,97.0,23.0,,,,,,,96.5,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,51,,,,
+121.5,,,133.5,,80.0,23.5,,,,,,,97.5,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,52,,,,
+119.0,,98.0,136.5,,74.0,19.5,,,,,,,96.5,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,53,,,,
+117.5,,98.0,141.0,,86.0,18.0,,,,,,,95.0,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,54,,,,
+116.5,,,150.5,,83.0,19.5,,,,,,,96.0,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,55,,,,
+116.0,,,150.5,,89.5,19.5,,,,,,,97.0,,,,,,,,194.0,,,,,,,,,150.0,,,,49,0,1,0,278,56,,,,
+115.0,,98.80000305175781,148.5,,90.5,19.0,,,,,,,96.5,,,,,,,,194.0,,,,,,,,,,,,,49,0,1,0,278,57,,,,
+111.5,,98.80000305175781,155.5,,90.5,18.5,,,,,,,97.0,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,58,,,,
+103.5,,,145.5,,89.0,15.5,,,,,,,98.0,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,59,,,,
+95.0,,,130.5,,79.5,12.0,,,,,,,98.5,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,60,,,,
+95.5,,97.19999694824219,134.5,,81.5,14.5,,,,,,,99.0,,,,,,,,165.0,,,,,,,,,,,,,49,0,1,0,278,61,,,,"7p to 7a Micu Progress Note
+
+Neuro - Alert and oriented x 3. Easilly arousable. Medicated with 1 mg ativan x 1 for anxiety with good effect.
+
+Resp - Received pt on 3L 02 NC. At 2100 pt c/o ""feeling tight"", decreased aeration noted on exam. Placed on heliox by resp therapy with good results. 02 sats &gt; 95 %. Pt desats to upper 70s when 02 removed. Continues to experience diffuse wheezing throughout lung fields. Treated with albuterol and atrovent nebs q2hrs. RR 15-24. Productive cough clear thick sputum. Rx with robitussin and benzonatate. Easily fatigued with any exertion.
+
+C-V - HR 90-115 ST. BP 130-160/80-90. Heparin drip initiated on previous shift for subtherapeutic INR. Pt with hx of PE.Heparin drip held for 1 hr and decreased 100 units x 2 for PTT 150. Currently heparin infusing at 850 units/hr. Continues to receive 5 mg coumadin qhs. Next lab draw due at 0800. No edema in exts noted. Pt declining to use venodyne compression boots.
+
+GI - Abd soft. +BS. Toleraing reg diet well. Last BM 3/2 days.
+
+F/E - Voiding approx 50ccs/hr of urine via foley cath. Urine [**Location (un) 206**] appearing at one point, now clear and yellow.
+
+ID - Afeb. Rx with azithromycin qd for ? PNA.
+
+Gyn - Pt began her menstrual cycle this am. Passing dark brown vag discharge. States she is due for her period.
+
+Endo - RiSS. Methylprednisone being administered q 8hrs.
+
+Social - Plan is for Social Service consult today regarding sister becoming health care proxy. Psych [**Name2 (NI) **] is also planned as pt is appears to be more anxious and depressed.
+
+A+P  Pt increasing fatigued appearing. Continues to experience episodes of poor aeration and diffuse wheezing. ? will need intubation soon.
+Continue to monitor heparin infusion closely and any signs or sxs of bleeding.
+Emotional support to pt who understandably is going through a difficult time.
+;Addendum - Pt increasingly fatigued appearing and slightly lethargic. ? CO2 retaining. Placed on BIPAP by resp. MD notified. Will obtain ABG.
+;Resp Care
+Pt. tx'd with albuterol/atrovent cocktails q2hr intermittantly with heliox 10 LPM/ 18Lpm corrected. Tolerated well, however this morning appears somewhat lethargic. Placed on PSV/CPAP on face mask ventilation. pt. is alert and orientated x3. Will continue to monitor closely and draw abg shortly.
+;Nsg Note (0700hrs-1900hrs)
+
+Neuro: Minimal anxiety noted thru shift.  Requesting ativan to aide in promoting sleep/rest periods; med x 2 with 1mg IVP. MSO4 x1 for restlessness with effect.  Seen by psych for consult with anxiety/high steroid use for myeloma; recommendation for resperidol qhs and refrain from benzos for ?delirium.  A&amp;0x3; appropriate with nsg staff.  Two sisters called and asked about her condition.  Social services notified to help with ?SSDI.  Awaiting arrival of son.
+
+CV: Afebrile. Azithromycin for ?PNA. Tachy/hypertensive prob r/t resp status/anxiety. Denies CP?SOB. Repleted with magn. Hep gtt d/c'd for INR 3.3, PTT 150. To receive 2.5 mg coumadin qhs. (+)menses, light. 2 PIVs patent.
+
+Resp:  Cont exp wheeze; occ I/E wheeze/rhonchi. O2 sat mx'd &gt;96% with BIPAP 10/0.40/600. Receiving atrovent/alb nebs q2hrs. Speaking few words to short sentences at a time with much dyspnea. ABG on BIPAP 7.42/53/105/8/36.  Wearing 4Lnc with meals.  RR 30's when awake, [**1-22**] at rest.
+
+GI/GU: Excellent appetite. Foley d/c'd, voiding adequate u/o. Sm BM
+
+ENDO: SSI coverage.  Comfort: Up in chair sitting 45-90 degrees, [**Month/Year (2) **] fairly.
+
+Plan: Cont enc use of BIPAP. Nebs. Coumadin. DR. [**Last Name (STitle) 613**] (onc) to f/u. Social work consult; emotional support. Methylprednisolone qd. Risperdal qhs. Avboid benzos. OOB as [**Last Name (STitle) **].
+"
+100.0,,97.19999694824219,143.0,,86.0,18.0,,,,,,,98.5,,,,,,,,165.0,,,,,,,,,,,,,49,0,1,0,278,62,,,,
+97.5,,,142.5,,84.0,16.0,,,,,,,98.5,,,,,,,,,,,,,,,,,150.0,,,,49,0,1,0,278,63,,,,
+93.0,,,140.0,,83.0,13.5,,,,,,,99.0,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,64,,,,
+94.5,,97.4000015258789,145.5,,86.0,15.0,,,,,,,99.0,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,65,,,,
+102.0,,97.4000015258789,156.0,,91.5,19.0,,,,,,,98.5,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,66,,,,
+100.0,,,154.0,,91.5,17.0,,,,,,,98.5,,,,,,,,139.0,,,,,,,,,,,,,49,0,1,0,278,67,,,,
+96.0,,,149.0,,94.5,15.0,,,,,,,99.5,,,,,,,,139.0,,,,,,,,,,,,,49,0,1,0,278,68,,,,
+100.5,,97.0999984741211,146.0,,96.0,16.0,,,28.0,,,,98.0,,16.0,,9.699999904632568,101.0,0.6,,142.0,,1.8,3.8,4.6,,,29.700000381469728,9.899999809265136,150.0,11.2,,,49,0,1,0,278,69,,,,
+100.5,,97.0999984741211,130.0,,91.0,17.0,,8.0,28.0,,7.42,53.0,97.5,,16.0,,9.699999904632568,101.0,0.6,,142.0,,1.8,3.8,4.6,,,29.700000381469728,9.899999809265136,150.0,11.2,,,49,0,1,0,278,70,,,,
+109.5,,,135.5,,97.5,17.5,,,,,,,97.0,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,71,,,,
+120.5,,,145.5,,94.5,23.0,,,,,,,97.0,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,72,,,,
+117.0,,97.30000305175781,144.5,,90.5,25.666666666666668,,,,,,,98.5,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,73,,,,
+116.0,,97.30000305175781,155.0,,105.5,21.5,,,,,,,97.0,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,74,,,,
+114.0,,,160.0,,105.5,20.0,,,,,,,98.0,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,75,,,,
+110.5,,,148.0,,88.0,21.5,,,,,,,100.0,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,76,,,,
+106.0,,,147.5,,82.0,18.0,,,,,,,97.0,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,77,,,,
+101.0,,,159.0,,86.0,18.5,,,,,,,97.0,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,78,,,,
+,,,,,,22.0,,,,,,,100.0,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,79,,,,
+96.0,,,155.0,,95.0,15.0,,,,,,,100.0,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,80,,,,
+96.0,,97.5999984741211,155.0,,95.0,18.0,,,,,,,100.0,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,81,,,,
+107.0,,97.5999984741211,165.0,,107.0,20.5,,,,,,,99.5,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,82,,,,
+115.5,,,166.0,,103.5,19.5,,,,,,,98.0,,,,,,,,168.0,,,,,,,,,,,,,49,0,1,0,278,83,,,,
+115.0,,,158.5,,91.5,18.5,,,,,,,98.5,,,,,,,,168.0,,,,,,,,,,,,,49,0,1,0,278,84,,,,
+113.0,,97.0,156.0,,80.0,17.5,,,,,,,100.0,,,,,,,,173.0,,,,,,,,,,,,,49,0,1,0,278,85,,,,
+110.0,,97.0,146.5,,79.0,17.5,,,,,,,100.0,,,,,,,,173.0,,,,,,,,,,,,,49,0,1,0,278,86,,,,
+112.5,,,134.5,,84.5,18.5,,,,,,,100.0,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,87,,,,
+112.5,,,143.0,,84.0,18.0,,,,,,,100.0,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,88,,,,
+111.0,,97.0,142.0,,86.0,15.5,,,,,,,100.0,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,89,,,,
+115.0,,97.0,134.0,,85.5,19.5,,,,,,,100.0,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,90,,,,
+115.0,,,137.0,,85.0,21.0,,,,,,,99.5,,,,,,,,128.0,,,,,,,,,,,,,49,0,1,0,278,91,,,,
+110.0,,,130.0,,85.0,16.5,,,,,,,99.5,,,,,,,,128.0,,,,,,,,,,,,,49,0,1,0,278,92,,,,
+109.5,,97.9000015258789,127.5,,72.0,16.0,,,,,,,100.0,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,93,,,,
+108.5,,97.9000015258789,138.0,,74.5,19.0,,,35.0,,,,100.0,,15.0,,8.5,95.0,0.6,,106.0,,1.6,3.6,4.1,,,30.399999809265136,10.100000190734864,35.2,9.3,,,49,0,1,0,278,94,,,,
+103.5,,,136.0,,82.0,17.5,,,,,,,100.0,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,95,,,,
+108.5,,,133.0,,80.0,15.0,,,,,,,99.0,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,96,,,,
+115.5,,97.0,146.0,,96.0,19.5,,,,,,,97.0,,,,,,,,208.0,,,,,,,,,,,,,49,0,1,0,278,97,,,,
+115.0,,97.0,148.0,,93.5,22.0,,,,,,,96.0,,,,,,,,208.0,,,,,,,,,,,,,49,0,1,0,278,98,,,,
+117.0,,,150.0,,91.0,23.0,,,,,,,97.0,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,99,,,,
+115.5,,,142.0,,89.0,22.5,,,,,,,96.0,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,100,,,,
+111.5,,98.4000015258789,142.5,,86.0,19.0,,,,,,,97.0,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,101,,,,
+107.0,,98.4000015258789,143.0,,83.0,18.5,,,,,,,99.0,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,102,,,,
+106.0,,,146.0,,84.0,19.5,,,,,,,97.0,,,,,,,,220.0,,,,,,,,,,,,,49,0,1,0,278,103,,,,
+106.5,,,151.0,,66.5,19.5,,,,,,,97.5,,,,,,,,220.0,,,,,,,,,,,,,49,0,1,0,278,104,,,,
+104.0,,98.19999694824219,142.0,,67.5,19.0,,,,,,,95.5,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,105,,,,
+104.0,,98.19999694824219,128.0,,86.0,21.0,,,,,,,94.5,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,106,,,,
+101.0,,,136.0,,83.0,21.0,,,,,,,97.0,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,107,,,,
+98.5,,,136.0,,83.0,16.0,,,,,,,98.0,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,108,,,,
+98.0,,98.69999694824219,135.0,,75.0,18.5,,,,,,,99.0,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,109,,,,"PMICU Nursing Progress Note 7p-7a
+Review of Systems
+
+[**Name (NI) 248**] Pt [**Name (NI) **]3, cooperative w/ care. Pt slept for most of the night w/ no c/o pn or discomfort. Received PO risperidone per standing orders.  PERRLA, bsk. MAE.
+CV- Hemodynamically stable. HR 90's, NSR, no ectopy.  BP 120's/70's.  AM labs pending. Follow up on PT/INR for coumadin dosing.
+Resp- Cont on 3 L NC, sat 99-100%. Intermittently recieving neb tx from RT o/n w/ good effect. LS coarse in upper lobes, ins/exp wheeze in bases.
+GI- Excellent appetite, abd soft, +BS, no BM.  Cont to follow BG and tx w/ sliding scale insulin.
+GU- Adequate u/o- voids in bedpan. Please refer to carevue for FB.
+[**Name (NI) 1654**] PT's requirements for RT support greatly decreased from yessterday, Pt may be ready for discharge to flr. No contact w/ family o/n. Cont supportive medical care.
+
+
+;Neuro:  AAO, MAEx4 no deficits.  Resperidol qhs and prn.
+
+Cardiac:  HR=100-120's when awake ST, no ectopy.  +periph pulses, extrems warm, no edema.  BP=130/70.
+
+Resp:  3L n/p w/ 02 sat=96-98%.  Lungs essentially clear, but diminished w/ occ exp wheezes when SOB.  Requiring nebs q3hr.  Productive cough - thin clear white.  Afrin nasal spray started today.
+
+GI:  +BS, abd soft, taking diet well, one med BM this am.
+
+GU:  voiding on bedpan - clear yellow urine - qs.
+
+Pain:  none
+
+Antibx:  afebrile, no antibx.
+
+TX to CC7.
+
+
+
+
+
+"
+95.0,,98.69999694824219,135.0,,75.0,19.5,,,,,,,99.5,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,110,,,,
+93.5,,,120.0,,74.0,16.0,,,,,,,99.0,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,111,,,,
+93.0,,,120.0,,74.0,15.0,,,,,,,98.0,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,112,,,,
+92.0,,98.30000305175781,128.0,,79.0,15.5,,,,,,,99.0,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,113,,,,
+95.0,,98.30000305175781,132.5,,83.5,16.0,,,,,,,99.5,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,114,,,,
+95.5,,,137.0,,88.0,14.5,,,36.0,,,,99.5,,16.0,,8.800000095367432,95.0,0.6,,118.0,,1.5,4.5,4.4,,,30.5,10.100000190734864,36.9,9.8,,,49,0,1,0,278,115,,,,
+98.5,,,,,,17.5,,,,,,,98.5,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,116,,,,
+99.0,,,164.0,,77.0,20.5,,,,,,,97.66666666666667,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,117,,,,
+99.0,,,156.0,,87.5,19.5,,,,,,,97.5,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,118,,,,
+113.5,,98.0,152.0,,87.5,18.0,,,,,,,98.0,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,119,,,,
+120.5,,98.0,145.5,,76.0,21.5,,,,,,,97.0,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,120,,,,
+122.5,,,134.0,,76.0,23.5,,,,,,,98.0,,,,,,,,203.0,,,,,,,,,,,,,49,0,1,0,278,121,,,,
+125.0,,,133.0,,77.0,20.5,,,,,,,97.5,,,,,,,,203.0,,,,,,,,,,,,,49,0,1,0,278,122,,,,
+122.5,,98.19999694824219,136.0,,75.0,20.5,,,,,,,97.0,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,123,,,,
+121.0,,98.19999694824219,136.0,,75.0,21.0,,,,,,,98.0,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,124,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,125,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,126,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,127,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,128,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,129,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,130,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,131,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,132,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,133,,,,"[**2108-4-12**] 5:01 PM
+ CTA CHEST W&amp;W/O C &amp;RECONS; CT 100CC NON IONIC CONTRAST          Clip # [**Clip Number (Radiology) 1846**]
+ Reason: does pt have recurrent PE
+  Contrast: OPTIRAY Amt: 100
+ ______________________________________________________________________________
+ [**Hospital 4**] MEDICAL CONDITION:
+  48 year old woman with h/o Multiple Myeloma, recent PNA and PE in [**12-9**] who
+  presents with severe bronchospasm in context of subtherapeutic INR.  Pt has not
+  responded appropriately to high dose steroids and nebs; please eval parenchyma
+  for interstital dz and do CTA for recurrence of PE.
+ REASON FOR THIS EXAMINATION:
+  does pt have recurrent PE
+ No contraindications for IV contrast
+ ______________________________________________________________________________
+                                 FINAL REPORT
+ INDICATION: History of multple myeloma and pulmonary embolus in [**2107-12-9**].
+ Severe bronchospasm and subtherapeutic INR.  Evaluate for recurrent pulmonary
+ embolus.
+
+ COMPARISON: Single view chest [**2108-4-10**].
+
+ TECHNIQUE: Multiple axial images through the chest were obtained following the
+ administration of 100 cc of Optiray due to CT angiogram technique. Multiplanar
+ reformatted images were obtained.
+
+ CT ANGIOGRAM CHEST: The bolus timing is suboptimal, but there are no large
+ filling defects within the pulmonary arteries to suggest pulmonary embolus.
+ There is no axillary, hilar, or mediastinal lymphadenopathy.  Emphysematous
+ changes are noted bilaterally. There are no pleural effusions.
+
+ Small, punched-out lytic lesions are noted scattered throughout the spine,
+ consistent with known multiple myeloma.
+
+ IMPRESSION:
+ 1. No evidence of acute or chronic pulmonary embolus.
+ 2. Emphysematous changes bilaterally.
+ 3. Small lytic bony lesions throughout the spine consistent with multiple
+ myeloma.
+
+
+"
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,134,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,135,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,136,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,137,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,138,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,139,,,,
+,,,,,,,,,34.0,,,,,,18.0,,8.0,96.0,0.6,,77.0,,1.5,3.4,4.0,,,33.2,11.0,35.0,7.3,,,49,0,1,0,278,140,,,,
+,,,,,,,,,34.0,,,,,,18.0,,8.0,96.0,0.6,,77.0,,1.5,3.4,4.0,,,33.2,11.0,35.0,7.3,,,49,0,1,0,278,141,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,142,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,143,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,144,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,145,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,146,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,147,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,148,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,149,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,150,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,151,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,152,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,153,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,154,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,155,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,156,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,157,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,158,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,159,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,160,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,161,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,162,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,163,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,164,,,,
+,,,,,,,,,32.0,,,,,,14.0,,,94.0,0.7,,77.0,,,,3.9,,,35.1,11.7,31.9,7.7,,,49,0,1,0,278,165,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,166,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,167,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,168,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,169,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,170,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,171,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,172,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,173,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,174,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,175,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,176,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,177,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,178,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,179,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,180,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,181,,,,"[**2108-4-14**] 2:45 PM
+ CHEST (SINGLE VIEW)                                             Clip # [**Clip Number (Radiology) 33134**]
+ Reason: please check placement r bas d.l. picc for [**Last Name (LF) 33135**], [**First Name3 (LF) **] travel
+ ______________________________________________________________________________
+ [**Hospital 3**] MEDICAL CONDITION:
+  48 year old woman with mult myeloma
+ REASON FOR THIS EXAMINATION:
+  please check placement r bas d.l. picc for [**Last Name (LF) 33135**], [**First Name3 (LF) **] travelby wheelchair, call
+  beeper [**10/2548**] with wet read thanks
+ ______________________________________________________________________________
+                                 FINAL REPORT
+ PORTABLE CHEST ON [**2108-4-14**] - 14:39.
+
+ INDICATION:  PICC line placement.
+
+ Right PICC line placement identified with tip in the SVC and no pneumothorax.
+ The lungs are clear.
+
+"
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,182,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,183,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,184,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,185,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,186,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,187,,,,
+,,,,,,,,,31.0,,,,,,19.0,,,93.0,0.6,,74.0,,1.6,3.6,4.0,,,36.2,11.8,29.4,7.5,,,49,0,1,0,278,188,,,,
+,,,,,,,,,31.0,,,,,,19.0,,,93.0,0.6,,74.0,,1.6,3.6,4.0,,,36.2,11.8,29.4,7.5,,,49,0,1,0,278,189,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,190,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,191,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,192,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,193,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,194,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,195,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,196,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,197,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,198,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,199,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,200,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,201,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,202,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,203,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,204,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,205,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,206,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,207,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,208,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,209,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,210,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,211,,,,
+,,,,,,,,,28.0,,,,,,20.0,,8.2,97.0,0.7,,75.0,,1.5,3.7,3.9,,,32.9,11.1,28.8,7.4,,,49,0,1,0,278,212,,,,
+,,,,,,,,,28.0,,,,,,20.0,,8.2,97.0,0.7,,75.0,,1.5,3.7,3.9,,,32.9,11.1,28.8,7.4,,,49,0,1,0,278,213,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,214,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,215,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,216,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,217,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,218,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,219,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,220,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,221,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,222,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,223,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,224,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,225,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,226,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,227,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,228,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,229,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,230,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,231,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,232,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,233,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,234,,,,
+,,,,,,,,,29.0,,,,,,23.0,,8.0,102.0,0.7,,69.0,,1.6,4.2,4.1,,,30.4,10.2,33.1,7.4,,,49,0,1,0,278,235,,,,
+,,,,,,,,,29.0,,,,,,23.0,,8.0,102.0,0.7,,69.0,,1.6,4.2,4.1,,,30.4,10.2,33.1,7.4,,,49,0,1,0,278,236,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,237,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,238,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,239,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,240,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,241,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,242,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,243,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,244,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,245,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,246,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,247,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,248,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,249,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,250,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,251,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,252,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,253,,,,"Admission Date:  [**2108-4-6**]       Discharge Date:  [**2081-4-7**]
+
+Date of Birth:   [**2059-5-7**]       Sex:  F
+
+Service:  O MED
+
+CHIEF COMPLAINT:  Dyspnea.
+
+HISTORY OF PRESENT ILLNESS:  This is a 48 year old African
+American female with a history of multiple myelomas being
+admitted for respiratory distress.  The patient has been
+recently discharged one week ago from outside hospital ([**Hospital3 7900**]) for respiratory distress.  Back at [**Hospital3 7362**],
+she was given nebulizer, antibiotics and steroids.  She also
+had elevated INR and was given medication to lower INR
+although there was no evidence of bleeding.
+
+Last night, she reports having increased difficulty with
+breathing.  She has also had a cough.  She denies any fever
+or chills.  The patient admitted to decreased p.o. intake but
+has been recently sedimentary.  She denies any swelling of
+the legs.  The patient had noted some wheezing but then took
+her Albuterol inhaler without any effect.  She has been on a
+Prednisone taper but reports that she has been coughing up
+thick sputum.
+
+She went to her primary care provider today but could not say
+a sentence so was sent to the Emergency Department.  In the
+Emergency Department, she was tachypneic and wheezing with
+heart of 120 and blood pressure of 127/82.  She received
+Solu-Medrol and continued with nebulizer treatment.  She
+improved, but seemed to be tiring.  Her ABG was done and
+showed pH of 7.41; PCO2, 40; PO2, 92.  She can speak in full
+sentences but still just making wheezing.  She is requiring
+continued nebulizer treatment but denies any chest pain,
+nausea, vomiting, diarrhea or abdominal pain.  She feels weak
+in general.
+
+PAST MEDICAL HISTORY:
+1.  Multiple myeloma diagnosed in [**2107-12-9**], with
+increase protein in bone marrow biopsy.  She is to receive
+Decadron 40 mg q d every other week.
+2.  Pulmonary embolism, [**2108-1-2**].
+3.  Asthma.  No PFTs .....................
+4.  History of steroid psychosis.
+5.  Pneumonia requiring intubation in [**2107-12-9**].
+
+MEDICATIONS UPON ADMISSION:
+1.  Coumadin 2.5 mg p.o. q d.
+2.  Serevent two puffs q.i.d.
+3.  Albuterol inhaler one to two puffs q 6 hours prn.
+4.  Dexamethasone 10 mg p.o. q d.
+
+ALLERGIES:  No known drug allergies.
+
+SOCIAL HISTORY:  Socially, she lives with her children and
+works at home as a home health aid.  She has twenty years of
+two pack a day smoking history but quit in [**2107-12-9**].
+She drinks an occasional alcohol.
+
+FAMILY HISTORY:  Family history shows father died of an
+myocardial infarction.  Sister with ovarian cancer.
+
+PHYSICAL EXAMINATION UPON ADMISSION:  Temperature, 96.6;
+heart rate, 122; blood pressure, 127/82; respiratory rate,
+24; O2 saturation, 99%.  Head, eyes, ears, nose and throat,
+pupils are equal, round, and reactive to light and
+accommodation and extraocular movements intact.  No accessory
+muscles are being used.  Neck is supple without
+lymphadenopathy.  Pulmonary, diffuse wheezing with bibasilar
+crackles with the left greater than right.  Cardiac, regular
+rate and rhythm with normal S1 or S2.  No murmurs or thrills
+noted.  Abdomen is soft, nontender, nondistended with normal
+active bowel sounds.  Extremities, no edema, cyanosis or
+clubbing noted.  Neurologically, the patient is somnolent but
+oriented x 3.  No focal defects are noted.
+
+LABORATORIES UPON ADMISSION:  White count, 9.6; neutrophils,
+66%; lymphocytes, 5%; bandemia, 21%; monocytes, 1%.  Sodium,
+131; potassium, 4.4; chloride, 92; bicarbonate, 24.  BUN, 14;
+creatinine, 0.8.  Glucose, 131.  INR, 1.3.  PTT, 29.1.  ABG,
+7.41; PCO2, 40; PO2, 92.
+
+HOSPITAL COURSE:
+1.  Pulmonary - Dyspnea secondary to chronic obstructive
+pulmonary disease/emphysema under this hospital course.
+Briefly, the patient received BIPAP, ....................,
+intravenous Solu-Medrol, nebulizer treatment and inhaler
+treatment while in the Intensive Care Unit.  She was able to
+be weaned off of the oxygen back to room air, sating to about
+93 or 94 percent.
+
+Though her chest x-rays show hyperinflation and no signs of
+infection, she was given five days worth of Zithromax.  An
+echocardiogram was to rule out any cardiac wheezes which then
+showed an ejection fraction of greater than 55%, mild right
+ventricular dilation and mild pulmonary arterial pressure.
+Pulmonary function tests were performed showing obstructive
+pattern with FEC of 2.56 which is 93% of the predicted and
+FEV1 of 0.9 which is 43% of the predicted in FEV1 to FEC
+ratio of 46%.
+
+When the patient was transferred to the Medical Floor, a CT
+was performed showed no evidence of a pulmonary embolism but
+did show signs of emphysema.  Sputum cultures were sent and
+showed no growth of any organism.  Alpha antitrypsin was sent
+out but is still pending.
+
+2.  Pulmonary Embolism - The patient was continued on
+Coumadin for an INR between 2 and 3.  Since she was
+subtherapeutic, she was started on Lovenox until she became
+therapeutic on the Coumadin.
+
+3.  Psychiatry - Anxiety.  The patient was quite anxious
+during the hospital course.  Psychiatry was called to consult
+and recommended that she be on Risperidone at 0.25 mg q hs.
+The patient did well on this medication.
+
+4.  Oncology - Multiple myeloma.  A protein electrophoresis
+was done showing a monoclonal IGG capa gammaglobulinopathy
+(60% of the total protein in [**2108-1-8**], but now is 66%
+of total protein on [**2108-4-9**], despite q weekly
+Dexamethasone treatment.  Bone marrow biopsy was done
+revealing 70 to 80 percent plasma cells.  Given these
+findings, the patient was then transferred to the [**Hospital Ward Name 516**]
+for start of chemotherapy with Vincristine,
+................... and Decadron in preparation for bone
+marrow transplant to be done.
+
+
+
+                            [**Name6 (MD) **] [**Last Name (NamePattern4) 5837**], M.D.  [**MD Number(1) 8285**]
+
+Dictated By:[**First Name3 (LF) 30667**]
+MEDQUIST36
+
+D:  [**2108-4-17**]  15:47
+T:  [**2108-4-17**]  15:46
+JOB#:  [**Job Number 30668**]
+"
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,254,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,255,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,256,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,257,,,,
+,,,,,,,,,29.0,,,,,,22.0,,8.4,100.0,0.6,,68.0,,1.6,4.8,3.9,,,28.8,9.5,44.7,7.6,,,49,0,1,0,278,258,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,259,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,260,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,261,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,262,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,263,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,264,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,265,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,266,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,267,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,268,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,269,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,270,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,271,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,272,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,273,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,274,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,275,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,276,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,277,,,,"Name:  [**Known lastname 470**], [**Known firstname **]                        Unit No:  [**Numeric Identifier 5354**]
+
+Admission Date:  [**2108-4-6**]     Discharge Date:  [**2108-4-18**]
+
+Date of Birth:   [**2059-5-7**]     Sex:  F
+
+Service:
+
+ADDENDUM TO HER [**2108-4-6**] ADMISSION NOTE; DATE OF DISCHARGE
+WILL BE [**2108-4-18**].
+
+
+For her multiple myeloma, patient was given treatment with
+vincristine and Doxil.  She was then treated with decadron
+for four days at dosing of 40 mg po q day.  She will remain
+on Allopurinol prophylaxis for one week postchemotherapy.
+She was seen by Dr. [**First Name (STitle) **] regarding future bone marrow
+transplant for her multiple myeloma, and she will follow up
+with Oncology, Dr. [**Last Name (STitle) **] and Dr. [**Last Name (STitle) 5355**] on [**2108-5-3**].
+
+In regards to her congestive obstructive pulmonary disease,
+patient did improve while in the hospital.  She saturated at
+93-94% on room air both at rest and with walking.  She is to
+continue on her inhaler regimen along with the Singulair.
+She will be put on a very long prednisone taper with starting
+after the Decadron treatment.  Her prednisone taper will
+include 40 mg for three days, then 30 mg for 14 days, then 20
+mg for 14 days, 10 mg for seven days, and then 5 mg for seven
+days.  She will remain on the Bactrim prophylaxis until her
+prednisone taper reaches 20 mg po q day.
+
+For her pulmonary embolism, INR was checked each day and
+finally reached 2.3 on day of discharge, so her Lovenox was
+discontinued.  The patient is to continue taking 4 mg of
+Coumadin at bedtime, and to have her INR checked in the next
+week with her primary care physician, [**Last Name (NamePattern4) **]. [**Last Name (STitle) 2819**].
+
+Hyponatremia:  The patient did have hyponatremia while in the
+hospital.  It was felt that this was secondary to possible
+SIADH.  However, we could not fluid restrict her given that
+she needed IV fluids during her chemotherapy.  She is to have
+her sodium rechecked in a week with Dr. [**Last Name (STitle) 2819**].
+
+DISCHARGE DIAGNOSES:
+1. Multiple myeloma.
+2. Congestive obstructive pulmonary disease exacerbation.
+3. Pulmonary embolism.
+4. Hyponatremia.
+
+DISCHARGE MEDICATIONS:
+1. Coumadin 4 mg po q hs.
+2. Risperdal 0.25 mg po q hs.
+3. Protonix 40 mg po q day.
+4. Nystatin 5 cc qid while on the prednisone.
+5. Bactrim double strength one tablet qod until the
+prednisone taper is to 20 mg.
+6. Solmeterol inhaler two puffs [**Hospital1 **].
+7. Flovent inhaler six puffs [**Hospital1 **].
+8. Combivent inhaler two puffs qid.
+9. Prednisone 40 mg x3 days, 30 mg x14 days, 20 mg x14 days,
+10 mg x7 days, 5 mg x7 days.
+11. Montelukast 10 mg po q day.
+12. Allopurinol 300 mg po bid x1 week.
+
+CONDITION ON DISCHARGE:  Stable.
+
+DISCHARGE STATUS:  Home.
+
+FOLLOWUP:
+1. The patient is to followup with Dr. [**Last Name (STitle) **] and Dr.
+[**Last Name (STitle) 5355**] in [**Hospital 788**] Clinic on [**2108-5-3**].
+2. Follow up with Dr. [**Last Name (STitle) 2819**], her primary care physician
+in one week to check on the INR and sodium level.
+3. The patient is to make an appointment with Dr. [**Last Name (STitle) 5356**]
+for followup on her congestive obstructive pulmonary disease
+exacerbation.
+
+
+
+                                 [**Name6 (MD) 3354**] [**Last Name (NamePattern4) 5357**], M.D.
+
+Dictated By:[**Last Name (NamePattern1) 4387**]
+
+MEDQUIST36
+
+D:  [**2108-4-18**]  11:11
+T:  [**2108-4-18**]  11:12
+JOB#:  [**Job Number 5358**]
+"
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,0,1,0,278,278,,,,

@@ -1,0 +1,1219 @@
+HR,O2Sat,Temp,SBP,MAP,DBP,Resp,EtCO2,BaseExcess,HCO3,FiO2,pH,PaCO2,SaO2,AST,BUN,Alkalinephos,Calcium,Chloride,Creatinine,Bilirubin_direct,Glucose,Lactate,Magnesium,Phosphate,Potassium,Bilirubin_total,TroponinI,Hct,Hgb,PTT,WBC,Fibrinogen,Platelets,Age,Gender,Unit1,Unit2,HospAdmTime,ICULOS,Strategy,GSN,NDC,TEXT
+,,,,,,,,,23.0,,,,,,12.0,,,101.0,1.4,,,,,,4.1,,,45.5,15.2,26.0,17.7,140.0,,21,1,0,0,341,1,,,,
+,,,,,,23.0,,,,50.0,,,,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,2,,,,
+130.0,98.0,98.85,115.5,,69.0,23.666666666666668,,,24.0,65.0,7.25,52.0,98.0,,12.0,,8.1,112.0,1.3,,113.0,,2.0,5.5,4.1,,,37.9,13.2,25.9,17.3,,,21,1,0,0,341,3,,,,
+118.75,97.0,98.3,103.0,34.0,51.333333333333336,17.2,,-4.0,24.0,70.0,7.25,52.0,97.0,,11.0,,7.5,112.0,1.1,,112.0,2.3,1.7,,,,,37.9,13.2,25.9,17.3,,,21,1,0,0,341,4,,,,
+111.0,98.0,98.3,100.5,60.0,46.0,13.333333333333334,,,,60.0,,,98.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,5,,,,
+105.5,100.0,98.44999999999999,119.66666666666667,86.5,74.0,14.833333333333334,,,,80.0,,,100.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,6,,,,
+112.0,100.0,101.1,105.25,76.2,65.2,14.833333333333334,,,,80.0,,,100.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,7,,,,
+114.0,100.0,101.1,100.0,71.0,60.0,10.0,,,,60.0,7.32,47.0,100.0,,,,,,,,,,,,4.2,,,40.0,13.2,,,,,21,1,0,0,341,8,,,,
+,,,,,,,,-2.0,,,7.32,47.0,,,,,,,,,139.0,,,,4.2,,,,,,,,,21,1,0,0,341,9,,,,
+,,99.8,,,,10.0,,,23.0,60.0,7.44,33.0,,,12.0,,6.8,110.0,1.2,,133.0,,1.3,3.2,4.5,,,27.0,9.5,32.5,9.8,,,21,1,0,0,341,10,,,,
+94.66666666666667,100.0,99.8,122.25,78.0,57.5,11.0,,0.0,23.0,60.0,7.44,33.0,100.0,,12.0,,6.8,110.0,1.2,,133.0,,1.3,,,,,27.0,9.5,32.5,9.8,,,21,1,0,0,341,11,,,,
+90.66666666666667,100.0,,118.5,71.33333333333333,51.333333333333336,9.0,,,,60.0,,,100.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,12,,,,
+92.0,100.0,101.7,144.5,77.0,54.666666666666664,8.666666666666666,,,,55.0,,,100.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,13,,,,
+99.0,100.0,101.35,141.0,84.0,66.0,10.0,,,,50.0,,,100.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,14,,,,
+102.0,100.0,101.0,142.0,87.0,70.0,20.0,,,,,,,100.0,,,,,109.0,,,,,,,4.0,,,26.8,,,,,,21,1,0,0,341,15,,,,
+102.5,100.0,99.9,150.0,92.5,75.5,10.0,,,,50.0,,,100.0,,,,,109.0,,,,,,,,,,26.8,,,,,16.0,21,1,0,0,341,16,,,,
+103.5,100.0,99.9,153.0,100.0,83.33333333333333,10.0,,,,50.0,,,100.0,,,,,,,,140.0,,,,,,,,,,,,16.0,21,1,0,0,341,17,,,,
+101.5,100.0,,147.75,103.5,80.33333333333333,20.0,,,,,,,100.0,,,,,,,,140.0,,,,,,,,,,,,,21,1,0,0,341,18,,,,
+101.5,100.0,101.2,133.25,97.0,78.0,20.0,,,,,,,100.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,19,,,,
+101.0,100.0,101.2,128.0,93.0,76.0,10.0,,,,50.0,,,100.0,,,,,,,,,,,,,,,,,,,,17.0,21,1,0,0,341,20,,,,
+101.0,100.0,101.7,137.33333333333334,96.0,81.5,10.0,,,24.0,50.0,,,100.0,,11.0,,7.2,109.0,1.1,,160.0,,1.3,3.9,3.8,,,25.0,9.0,,7.6,,17.0,21,1,0,0,341,21,,,,"[**2177-8-30**] 9:20 AM
+ CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 21049**]
+ Reason: evaluate for pulm contusion
+ Admitting Diagnosis: MOTOR VEHICLE ACCIDENT WITH UNSPECIFIED INJURIES
+ ______________________________________________________________________________
+ [**Hospital 2**] MEDICAL CONDITION:
+  21 year old man s/p mcc v tree
+ REASON FOR THIS EXAMINATION:
+  evaluate for pulm contusion
+ ______________________________________________________________________________
+                                 FINAL REPORT
+ SINGLE AP PORTABLE VIEW OF THE CHEST
+
+ REASON FOR EXAM:  Evaluate progression of pulmonary contusions.
+
+ Comparison is made to prior study [**8-29**].
+
+ Cardiomediastinal contours are normal.  Right upper and lower and left upper
+ opacities consistent with contusions have improved.  There are no new lung
+ abnormalities or pneumothorax.  Small right pleural effusion is unchanged.  ET
+ tube and NG tube remain in place in standard position.
+
+
+"
+105.0,100.0,101.7,147.5,98.0,82.0,20.0,,,24.0,,7.46,35.0,100.0,,11.0,,7.2,109.0,1.1,,160.0,,1.3,,,,,25.0,9.0,,7.6,,,21,1,0,0,341,22,,,,
+117.5,100.0,,148.5,96.5,77.0,20.0,,2.0,,,7.46,35.0,100.0,,,,,,,,153.0,,,,,,,,,,,,,21,1,0,0,341,23,,,,
+119.5,100.0,99.8,121.5,81.0,63.0,12.0,,,,40.0,,,100.0,,,,,,,,,,,,,,,,,,,,18.0,21,1,0,0,341,24,,,,
+106.5,100.0,99.8,101.0,70.5,56.5,12.0,,,,40.0,,,100.0,,,,,,,,,,,,,,,,,,,,18.0,21,1,0,0,341,25,,,,
+97.5,100.0,,113.0,76.0,61.0,16.0,,,,,,,100.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,26,,,,
+92.0,100.0,99.2,119.5,79.5,63.5,16.0,,,,,,,100.0,,,,,110.0,,,,,,,4.1,,,22.6,,,,,,21,1,0,0,341,27,,,,
+89.0,100.0,99.2,125.5,82.0,65.5,16.0,,,,,,,100.0,,,,,110.0,,,,,,,,,,22.6,,,,,,21,1,0,0,341,28,,,,
+89.5,100.0,99.5,145.0,90.5,71.0,8.0,,,,40.0,,,100.0,,,,,,,,109.0,,,,,,,,,,,,,21,1,0,0,341,29,,,,
+95.5,100.0,99.5,157.5,98.0,75.5,8.0,,,,40.0,,,100.0,,,,,,,,109.0,,,,,,,,,,,,,21,1,0,0,341,30,,,,
+103.0,100.0,99.7,153.5,96.5,74.0,16.0,,,,,,,100.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,31,,,,
+100.5,100.0,99.7,159.0,100.0,78.0,16.0,,,,,,,100.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,32,,,,
+93.5,100.0,99.6,159.5,100.5,79.0,8.0,,,,40.0,,,100.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,33,,,,
+94.0,100.0,99.65,156.33333333333334,99.33333333333333,77.66666666666667,8.0,,,,40.0,,,100.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,34,,,,
+97.5,100.0,,154.5,95.0,72.5,16.0,,,,,,,100.0,,,,,107.0,,,111.0,,2.3,,3.9,,,,,,,,,21,1,0,0,341,35,,,,
+94.0,100.0,,152.66666666666666,93.33333333333333,71.66666666666667,8.0,,,,40.0,,,100.0,,,,,107.0,,,111.0,,2.3,,,,,,,,,,,21,1,0,0,341,36,,,,
+92.5,100.0,100.6,154.5,96.0,74.5,8.0,,,,40.0,,,100.0,,,,,,,,,,,,,,,23.3,,,,,,21,1,0,0,341,37,,,,
+89.0,100.0,100.19999999999999,152.5,95.0,73.0,16.0,,,,,,,100.0,,,,,,,,,,,,,,,23.3,,,,,,21,1,0,0,341,38,,,,
+86.0,100.0,99.8,146.0,91.0,69.0,16.0,,,,,,,100.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,39,,,,
+89.0,100.0,,160.0,99.5,77.0,10.333333333333334,,,,40.0,,,100.0,,,,,,,,,,,,,,,,,,,,16.0,21,1,0,0,341,40,,,,
+92.0,100.0,101.2,163.0,99.0,75.0,11.25,,,,40.0,7.47,37.0,100.0,,,,,107.0,,,,,,,3.95,,,22.6,,,,,16.0,21,1,0,0,341,41,,,,
+96.5,100.0,101.2,162.0,105.0,80.5,16.666666666666668,,4.0,,,7.47,37.0,100.0,,,,,107.0,,,124.0,,,,3.9,,,22.6,,,,,,21,1,0,0,341,42,,,,
+101.5,100.0,100.9,139.0,97.0,77.0,17.0,,,,,,,100.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,43,,,,
+103.5,100.0,100.9,128.5,87.5,70.0,7.0,,,,40.0,,,100.0,,,,,,,,,,,,,,,,,,,,18.0,21,1,0,0,341,44,,,,
+102.5,100.0,100.8,142.5,90.5,69.5,7.0,,,,40.0,,,100.0,,,,,,,,,,,,,,,,,,,,18.0,21,1,0,0,341,45,,,,"[**2177-8-31**] 9:39 PM
+ CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 21490**]
+ Reason: eval for ETT placement
+ Admitting Diagnosis: MOTOR VEHICLE ACCIDENT WITH UNSPECIFIED INJURIES
+ ______________________________________________________________________________
+ [**Hospital 2**] MEDICAL CONDITION:
+  21 year old man with new ETT placed
+ REASON FOR THIS EXAMINATION:
+  eval for ETT placement
+ ______________________________________________________________________________
+                                 FINAL REPORT
+ CHEST RADIOGRAPH:
+
+ INDICATION:  New endotracheal tube placement.
+
+ COMPARISON:  [**2177-8-31**].
+
+ FINDINGS:  As compared to the previous radiograph, an endotracheal tube has
+ newly been placed.  The tip of the tube is located just above the carina, the
+ tube should be pulled back by approximately 3 cm to ensure correct position.
+
+ Placement of the nasogastric tube is unchanged.  Increasing retrocardiac
+ atelectasis, increasing overall lung density.
+
+ The referring team was notified by telephone.
+
+
+;[**2177-8-31**] 5:20 AM
+ CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 21186**]
+ Reason: interval evaluation
+ Admitting Diagnosis: MOTOR VEHICLE ACCIDENT WITH UNSPECIFIED INJURIES
+ ______________________________________________________________________________
+ [**Hospital 2**] MEDICAL CONDITION:
+  21 year old man s/p mcc
+ REASON FOR THIS EXAMINATION:
+  interval evaluation
+ ______________________________________________________________________________
+                                 FINAL REPORT
+ SINGLE AP PORTABLE VIEW OF THE CHEST
+
+ REASON FOR EXAM:  S/P MCC.
+
+ Comparison is made with prior study performed a day earlier.
+
+ Cardiomediastinal contours are stable with cardiac size normal.  Opacities in
+ the upper lobes have almost completely resolved.  Right lower lobe opacity
+ consistent with contusion is stable.  Small right pleural effusion is
+ unchanged.  There are no new lung abnormalities.  There is no pneumothorax.
+ ET tube and NG tube are in place in standard position.
+
+
+;[**2177-8-31**] 3:26 AM
+ CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 20446**]
+ Reason: S/P MCC
+ Admitting Diagnosis: MOTOR VEHICLE ACCIDENT WITH UNSPECIFIED INJURIES
+ ______________________________________________________________________________
+ [**Hospital 2**] MEDICAL CONDITION:
+  21 year old man with SAH s/p mcc now not moving the left side new finding
+ REASON FOR THIS EXAMINATION:
+  evaluate for interval change
+ No contraindications for IV contrast
+ ______________________________________________________________________________
+ PROVISIONAL FINDINGS IMPRESSION (PFI): EAGg SUN [**2177-8-31**] 6:39 AM
+  PFI:  No new hemorrhage.  No overall change in multiple small foci of
+  intraparenchymal hemorrhage in the temporal and parietal lobes bilaterally.
+  Mild degree of diffuse edema is stable.
+ ______________________________________________________________________________
+                                 FINAL REPORT
+ INDICATION:  21-year-old male with subarachnoid hemorrhage status post MCC,
+ now not moving the left side.  Evaluate for interval change.
+
+ COMPARISON:  [**2177-8-29**].
+
+ TECHNIQUE:  Contiguous axial images were obtained through the brain without IV
+ contrast.
+
+ FINDINGS:  Multiple small bilateral foci of intraparenchymal hemorrhage in the
+ frontal, parietal and temporal lobes are unchanged as also the foci of SAH.
+ No new hemorrhage is noted.  No major vascular territory infarction, or mass
+ effect.  Mild generalized edema is similar to prior.  Intracranial pressure or
+ monitor through right frontal bolt is again noted.  Mucosal thickening in the
+ left maxillary and bilateral sphenoid and ethmoid sinuses with retention
+ cysts, is again noted.  No osseous abnormality is identified.
+
+ IMPRESSION:  No new hemorrhage.  No overall change in multiple small foci of
+ intraparenchymal hemorrhage in the temporal and parietal lobes bilaterally and
+ SAH.  Some degree of diffuse edema is noted with slightly decreased
+ conspicuity of the ventricles and sulci from prior; however to correlate with
+ ICP measuremnt and clinically.
+
+;[**Last Name (LF) 231**],[**First Name3 (LF) 232**] M.                     [**Last Name (un) 37**] TSICU                [**2177-8-31**]  3:26 AM
+ CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 20446**]
+ Reason: S/P MCC
+ Admitting Diagnosis: MOTOR VEHICLE ACCIDENT WITH UNSPECIFIED INJURIES
+ ______________________________________________________________________________
+ [**Hospital 2**] MEDICAL CONDITION:
+  21 year old man with SAH s/p mcc now not moving the left side new finding
+ REASON FOR THIS EXAMINATION:
+  evaluate for interval change
+ No contraindications for IV contrast
+ ______________________________________________________________________________
+                                  PFI REPORT
+ PFI:  No new hemorrhage.  No overall change in multiple small foci of
+ intraparenchymal hemorrhage in the temporal and parietal lobes bilaterally.
+ Mild degree of diffuse edema is stable.
+
+"
+105.0,100.0,100.8,152.0,93.5,71.0,14.0,,,26.0,,7.38,47.0,100.0,,11.0,,7.4,107.0,1.0,,136.0,,1.9,3.1,4.0,,,21.7,7.8,30.5,9.4,,,21,1,0,0,341,46,,,,
+106.0,100.0,100.5,143.5,90.0,68.5,14.0,,2.0,26.0,,7.38,47.0,100.0,,11.0,,7.4,107.0,1.0,,131.5,,1.9,,,,,21.7,7.8,30.5,9.4,,,21,1,0,0,341,47,,,,
+100.5,100.0,100.5,150.5,94.0,71.0,7.0,,,,40.0,,,100.0,,,,,,,,,,,,,,,,,,,,17.0,21,1,0,0,341,48,,,,
+96.0,100.0,100.7,159.0,99.0,76.0,7.0,,,,40.0,,,100.0,,,,,,,,,,,,,,,,,,,,17.0,21,1,0,0,341,49,,,,
+99.5,100.0,100.75,166.0,101.5,76.5,15.5,,,,,,,100.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,50,,,,
+92.0,100.0,100.8,142.5,89.5,68.5,14.0,,,,40.0,,,100.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,51,,,,
+97.5,100.0,100.5,146.5,87.5,65.0,14.0,,,,40.0,,,100.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,52,,,,
+91.33333333333333,100.0,100.5,141.5,95.33333333333333,71.66666666666667,9.0,,,,40.0,,,100.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,53,,,,
+91.0,100.0,,130.5,98.5,78.5,11.0,,,,40.0,,,100.0,,,,,106.0,,0.4,117.0,,1.8,,4.0,,,23.7,,,,,,21,1,0,0,341,54,,,,
+97.0,100.0,,143.0,99.0,78.0,16.5,,,,,,,100.0,,,,,106.0,,,117.0,,1.8,,,0.4,,23.7,,,,,,21,1,0,0,341,55,,,,
+93.0,100.0,,143.5,89.0,67.5,7.0,,,,40.0,,,100.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,56,,,,
+107.0,100.0,101.0,158.5,102.5,77.5,12.0,,,,40.0,,,100.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,57,,,,
+112.5,99.0,100.8,154.0,102.0,77.5,18.0,,,,,,,99.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,58,,,,
+105.5,99.0,100.6,140.0,90.0,68.0,15.0,,,,,7.41,42.0,99.0,,,,,,,,,,,,,,,20.2,,,,,,21,1,0,0,341,59,,,,
+109.5,99.5,99.0,142.0,91.0,68.5,15.0,,2.0,,,7.41,42.0,99.5,,,,,,,,120.0,,,,,,,20.2,,,,,,21,1,0,0,341,60,,,,
+109.0,99.5,100.25,147.0,94.0,71.5,7.0,,,,40.0,,,99.5,,,,,106.0,,,,,2.0,,3.8,,,,,,,,,21,1,0,0,341,61,,,,
+105.5,100.0,101.5,151.5,97.5,74.0,7.0,,,,40.0,,,100.0,,,,,106.0,,,,,2.0,,,,,,,,,,,21,1,0,0,341,62,,,,
+102.0,100.0,101.3,148.0,96.0,73.0,14.0,,,,,,,100.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,63,,,,
+105.0,99.5,100.8,151.25,100.75,77.75,11.25,,,,40.0,,,99.5,,,,,,,,,,,,,,,,,,,,18.0,21,1,0,0,341,64,,,,
+91.0,100.0,100.3,130.5,83.5,64.5,14.75,,,,40.0,,,100.0,,,,,,,,110.0,,,,,,,,,,,,18.0,21,1,0,0,341,65,,,,
+85.5,100.0,,147.0,94.5,75.0,22.0,,,,40.0,,,100.0,,,,,105.0,,,110.0,,2.0,,3.5,,,25.5,,,,,,21,1,0,0,341,66,,,,
+86.0,99.0,100.7,154.5,100.0,79.5,14.0,,,,40.0,7.45,41.0,99.0,,,,,105.0,,,,,2.0,,,,,25.5,,,,,,21,1,0,0,341,67,,,,
+91.5,99.0,100.7,144.0,91.0,71.5,7.0,,3.0,,40.0,7.45,41.0,99.0,,,,,,,,,,,,,,,,,,,,20.0,21,1,0,0,341,68,,,,
+93.0,100.0,100.9,141.5,88.0,69.0,7.0,,,,40.0,,,100.0,,,,,,,,,,,,,,,,,,,,20.0,21,1,0,0,341,69,,,,"[**2177-9-1**] 4:20 PM
+ CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 20447**]
+ Reason: eval for interval change. Please perform around 0600 on [**9-1**]/
+ Admitting Diagnosis: MOTOR VEHICLE ACCIDENT WITH UNSPECIFIED INJURIES
+ ______________________________________________________________________________
+ [**Hospital 2**] MEDICAL CONDITION:
+  21 year old man with likely [**Doctor First Name **] and SAH s/p moped accident, bolt removed [**8-31**]
+ REASON FOR THIS EXAMINATION:
+  eval for interval change. Please perform around 0600 on [**2177-9-1**].
+ No contraindications for IV contrast
+ ______________________________________________________________________________
+ PROVISIONAL FINDINGS IMPRESSION (PFI): PBec MON [**2177-9-1**] 7:45 PM
+  Stable subcortical foci of hemorrhage consistent with [**Doctor First Name **].  No new hemorrhage
+  or infarct noted since prior CT.  Small sulci consistent with patient's age.
+ ______________________________________________________________________________
+                                 FINAL REPORT
+ INDICATION:  21-year-old man with likely [**Doctor First Name **] and subarachnoid hemorrhage
+ status post moped accident, bolt removed [**2177-8-31**].  Please evaluate for
+ interval change.
+
+ TECHNIQUE:  Contiguous non-contrast axial images obtained through the brain.
+
+ COMPARISON:  Comparison is made to non-contrast head CTs obtained [**8-29**] and
+ [**2177-8-31**].
+
+ FINDINGS:  There continues to be multiple small bilateral subcortical
+ intraparenchymal hemorrhages in the frontal, parietal and temporal lobes
+ suggestive of diffuse axonal injury.  There are no new hemorrhages noted since
+ the prior CT.  The [**Doctor Last Name 34**]-white matter differentiation is preserved.  Small
+ sulci and ventricles are consistent with age.  Mild mucosal thickening noted
+ in bilateral sphenoid sinus.
+
+ IMPRESSION:  Stable subcortical foci of hemorrhage consistent with [**Doctor First Name **].  No
+ new hemorrhage or infarct noted since prior CT.  Small sulci consistent with
+ patient's age.
+
+;[**Last Name (LF) 231**],[**First Name3 (LF) 232**] M.                     [**Last Name (un) 37**] TSICU                [**2177-9-1**]  4:20 PM
+ CT HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 20447**]
+ Reason: eval for interval change. Please perform around 0600 on [**9-1**]/
+ Admitting Diagnosis: MOTOR VEHICLE ACCIDENT WITH UNSPECIFIED INJURIES
+ ______________________________________________________________________________
+ [**Hospital 2**] MEDICAL CONDITION:
+  21 year old man with likely [**Doctor First Name **] and SAH s/p moped accident, bolt removed [**8-31**]
+ REASON FOR THIS EXAMINATION:
+  eval for interval change. Please perform around 0600 on [**2177-9-1**].
+ No contraindications for IV contrast
+ ______________________________________________________________________________
+                                  PFI REPORT
+ Stable subcortical foci of hemorrhage consistent with [**Doctor First Name **].  No new hemorrhage
+ or infarct noted since prior CT.  Small sulci consistent with patient's age.
+
+;[**2177-9-1**] 4:49 AM
+ CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 21310**]
+ Reason: eval for interval change
+ Admitting Diagnosis: MOTOR VEHICLE ACCIDENT WITH UNSPECIFIED INJURIES
+ ______________________________________________________________________________
+ [**Hospital 2**] MEDICAL CONDITION:
+  21 year old man with multiple traumatic injuries, bilateral pulmonary
+  contusions and ptx
+ REASON FOR THIS EXAMINATION:
+  eval for interval change
+ ______________________________________________________________________________
+                                 FINAL REPORT
+ CHEST RADIOGRAPH
+
+ INDICATION:  Multiple traumatic injuries, bilateral pulmonary contusions,
+ evaluation for interval change.
+
+ COMPARISON:  [**2177-8-31**].
+
+ FINDINGS:  As compared to this examination, there is improvement.  The
+ endotracheal tube has been pulled back, the tip now projects roughly 3 cm
+ above the carina.  The course of the nasogastric tube is unchanged.  On the
+ right, a small pleural effusion has formed.  The pre-existing right lower lobe
+ atelectasis has almost completely resolved.  No major focal parenchymal
+ opacities that would be suspicious for pneumonia.  Normal size of the cardiac
+ silhouette.  No evidence of pneumothorax.
+
+
+;[**2177-9-1**] 4:32 PM
+ FEMUR (AP &amp; LAT) LEFT                                           Clip # [**Clip Number (Radiology) 21703**]
+ Reason: r/o left femur fracture
+ Admitting Diagnosis: MOTOR VEHICLE ACCIDENT WITH UNSPECIFIED INJURIES
+ ______________________________________________________________________________
+ [**Hospital 2**] MEDICAL CONDITION:
+  21M s/p scooter vs tree
+ REASON FOR THIS EXAMINATION:
+  r/o left femur fracture
+ ______________________________________________________________________________
+                                 FINAL REPORT
+ LEFT FEMUR [**2177-9-1**]
+
+ CLINICAL INFORMATION:  Left femur fracture.
+
+ FINDINGS:
+
+ Four total images are submitted of the femur.  No discrete fracture is
+ identified, although there are multiple sessile and pedunculated
+ osteochondroma arising from the femur and also from the proximal tibia.  These
+ are similar in appearance to those found on the right femur seen on the study
+ from several days ago.
+
+
+"
+92.0,100.0,100.9,154.0,93.0,71.5,14.5,,,,,,,100.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,70,,,,
+90.0,100.0,,150.0,89.5,67.5,14.5,,,,,,,100.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,71,,,,
+90.0,99.5,101.8,150.0,91.0,69.0,7.0,,,27.0,40.0,7.42,44.0,99.5,,8.0,,7.2,105.0,0.8,,112.0,,1.8,2.2,3.6,,,25.6,9.0,28.1,9.2,,19.0,21,1,0,0,341,72,,,,
+90.0,99.0,101.8,160.0,96.0,72.5,7.0,,3.0,27.0,40.0,7.42,44.0,99.0,,8.0,,7.2,105.0,0.8,,112.0,,1.8,,,,,25.6,9.0,28.1,9.2,,19.0,21,1,0,0,341,73,,,,
+90.5,98.5,100.8,132.0,83.5,64.0,14.0,,,,,,,98.5,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,74,,,,
+87.5,99.0,100.8,133.5,86.0,66.5,14.0,,,,,,,99.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,75,,,,
+86.0,100.0,100.1,146.0,93.5,72.5,14.0,,,,,,,100.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,76,,,,
+88.0,100.0,100.1,134.0,88.5,69.0,10.0,,,,40.0,,,100.0,,,,,,,,84.0,,,,,,,,,,,,,21,1,0,0,341,77,,,,
+92.0,100.0,,141.0,91.0,69.0,10.0,,,,40.0,,,100.0,,,,,,,,84.0,,,,,,,25.1,,,,,,21,1,0,0,341,78,,,,
+92.5,99.0,100.1,137.5,87.5,66.0,14.0,,,,,,,99.0,,,,,,,,,,,,,,,25.1,,,,,,21,1,0,0,341,79,,,,
+89.5,98.5,100.1,128.0,83.5,64.5,10.333333333333334,,,,40.0,,,98.5,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,80,,,,
+87.0,99.0,99.9,130.0,84.5,65.5,10.333333333333334,,,,40.0,,,99.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,81,,,,
+87.5,99.5,99.9,130.0,84.0,64.5,14.0,,,,,,,99.5,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,82,,,,
+85.5,100.0,,137.5,89.5,69.0,14.0,,,,,,,100.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,83,,,,
+97.33333333333333,99.5,,159.66666666666666,104.0,79.0,15.666666666666666,,,,,7.43,34.0,99.5,,,,,106.0,,,,,2.3,3.0,3.3,,,25.4,,,,,,21,1,0,0,341,84,,,,
+101.0,99.0,101.0,161.0,100.0,75.0,15.5,,0.0,,,7.43,34.0,99.0,,,,,106.0,,,,,2.3,,,,,25.4,,,,,,21,1,0,0,341,85,,,,
+92.0,99.0,101.0,156.0,95.0,72.0,7.0,,,,40.0,,,99.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,86,,,,
+90.5,99.0,,142.0,86.5,65.0,14.6,,,,40.0,,,99.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,87,,,,
+113.5,97.0,,158.5,99.5,75.0,25.5,,,,40.0,,,97.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,88,,,,
+112.5,96.0,99.6,147.5,93.5,71.0,26.333333333333332,,,,40.0,7.42,36.0,96.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,89,,,,
+91.5,98.0,99.6,123.5,86.5,70.0,24.0,,0.0,,,7.42,36.0,98.0,,,,,107.0,,,106.0,,,,3.7,,,,,,,,,21,1,0,0,341,90,,,,
+97.0,100.0,,129.5,102.0,87.0,25.0,,,,,,,100.0,,,,,107.0,,,,,,,,,,,,,,,,21,1,0,0,341,91,,,,
+96.5,100.0,,129.0,103.0,88.0,23.5,,,,,,,100.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,92,,,,
+88.5,100.0,101.2,117.5,89.0,74.0,22.0,,,,40.0,,,100.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,93,,,,"[**Last Name (LF) 231**],[**First Name3 (LF) 232**] M.                     [**Last Name (un) 37**] TSICU                [**2177-9-2**]  1:06 PM
+ MR CERVICAL SPINE W/O CONTRAST                                  Clip # [**Clip Number (Radiology) 20449**]
+ Reason: interval changes/?evolving L sided weakness
+ Admitting Diagnosis: MOTOR VEHICLE ACCIDENT WITH UNSPECIFIED INJURIES
+ ______________________________________________________________________________
+ [**Hospital 2**] MEDICAL CONDITION:
+  21 year old man with MCC
+ REASON FOR THIS EXAMINATION:
+  interval changes/?evolving L sided weakness
+ No contraindications for IV contrast
+ ______________________________________________________________________________
+                                  PFI REPORT
+ PFI:  Increased signal in the interspinous ligaments of C3-C4, C4-C5, C5-C6,
+ C6-C7 and C7-T1.  Global central canal narrowing due to congenital short
+ pedicles.  Degenerative joint disease as described above.
+
+;[**2177-9-2**] 1:09 PM
+ MR BRACHIAL PLEXUS W/O CONTRAST                                 Clip # [**Clip Number (Radiology) 20450**]
+ Reason: interval change/? evolving LUE weakness
+ Admitting Diagnosis: MOTOR VEHICLE ACCIDENT WITH UNSPECIFIED INJURIES
+ ______________________________________________________________________________
+ [**Hospital 2**] MEDICAL CONDITION:
+  21 year old man with MCC
+ REASON FOR THIS EXAMINATION:
+  interval change/? evolving LUE weakness
+ No contraindications for IV contrast
+ ______________________________________________________________________________
+                                 FINAL REPORT
+ MRI OF THE BRACHIAL PLEXUS [**2177-9-2**].
+
+ PATIENT HISTORY:  A 21-year-old man with MCC.  Interval change/query evolving
+ left upper extremity weakness.
+
+ TECHNIQUE:  Multiplanar T1- and T2-weighted images were acquired on a 1.5
+ Tesla magnet, without intravenous gadolinium.  Correlated with previous CT
+ scan of the torso and C-spine from [**2177-8-29**].
+
+ FINDINGS:
+
+ There is significant soft tissue edema in the tissues of the base of the neck
+ and shoulder girdle on the right.  The anterior and middle scalene muscles as
+ well as the distal aspect of the sternocleidomastoid and omohyoid muscles
+ demonstrate abnormal T2 hyperintensity, denoting muscle edema.  There is also
+ abnormal signal intensity involving the posterior paraspinal muscle and the
+ rhomboids. The edema also involves the interstitium around the brachial plexus
+ on the right.  No distinct thickening or increased abnormal signal is seen in
+ the brachial plexus itself.  There is no discontinuity of the brachial plexus.
+ However, due to significant surrounding soft tissue injury, the probability of
+ associated brachial plexus injury on the right is significant.
+
+ There is abnormal signal and thickening of the nerves roots in the neural
+ foramina, on the left involving the C6, C7, and C8 and on the right involving
+ the C7 and to a lesser degree C6 and C8 nerve roots. There is no avulstion of
+ the nerve roots.
+
+ The left brachial plexus is unremarkable.
+
+ There is nodular increased signal intensity on the left, the base of the neck
+ without muscle edema or interstitial edema.  This may represent a focal area
+ of soft tissue injury (may be due to direct impact) versus an area of
+ lymphadenopathy.
+
+ There is a nondisplaced fracture of the posterior aspect of the first rib.
+
+ There is a moderate-sized right pleural effusion with adjacent pulmonary
+ contusion.
+
+ The left internal jugular vein demonstrates abnormal signal intensity,
+ representing either a very slow flow versus thrombosis, to be correlated with
+                                                             (Over)
+
+ [**2177-9-2**] 1:09 PM
+ MR BRACHIAL PLEXUS W/O CONTRAST                                 Clip # [**Clip Number (Radiology) 20450**]
+ Reason: interval change/? evolving LUE weakness
+ Admitting Diagnosis: MOTOR VEHICLE ACCIDENT WITH UNSPECIFIED INJURIES
+ ______________________________________________________________________________
+                                 FINAL REPORT
+ (Cont)
+ vascular ultrasound if clinically indicated.
+
+ There is an endotracheal tube in appropriate position, and an NG tube within
+ the esophagus with the tip not visualized.
+
+ IMPRESSION:
+
+ Extensive soft tissue injury at the right base of the neck as described above
+ without distinct abnormality or discontinuity of the right brachial plexus
+ trunks/divisions/cords but extensive surrounding edema. No definite
+ abnormality of the left brachial plexus.
+
+ Abnormal enlargement and edema of the C6, C7, and C8 nerve roots on the left
+ and C7 and to a lesser degree C6 and C8 nerve roots on the right, likely
+ related to trauma.
+
+ Slow flow versus thrombosis of the left internal jugular vein. Correlate with
+ clinical exam and ultrasound if needed.
+
+;[**2177-9-2**] 1:05 PM
+ MR HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 20448**]
+ Reason: interval changes/?evolving L sided weakness
+ Admitting Diagnosis: MOTOR VEHICLE ACCIDENT WITH UNSPECIFIED INJURIES
+ ______________________________________________________________________________
+ [**Hospital 2**] MEDICAL CONDITION:
+  21 year old man with MCC
+ REASON FOR THIS EXAMINATION:
+  interval changes/?evolving L sided weakness
+ No contraindications for IV contrast
+ ______________________________________________________________________________
+ PROVISIONAL FINDINGS IMPRESSION (PFI): PBec TUE [**2177-9-2**] 5:34 PM
+  PFI:  Multifocal subcortical hemorrhagic [**Doctor First Name **] seen in the bilateral frontal,
+  parietal and temporal lobes.  Small hemorrhagic cortical contusions in the
+  left superior anterior and posterior frontal lobe.  Small foci of
+  nonhemorrhagic [**Doctor First Name **] in left splenium of corpus callosum.  Paranasal sinus
+  disease as described above.
+ ______________________________________________________________________________
+                                 FINAL REPORT
+ INDICATION:  21-year-old male status post motor vehicle collision.  Evaluate
+ for interval change in setting of evolving left-sided weakness.
+
+ TECHNIQUE:  Sagittal short TR, short TE spin echo images were obtained through
+ the brain.  Axial imaging was performed with long TR, long TE fast-spin echo,
+ FLAIR, gradient echo, and diffusion technique.  No contrast was administered.
+
+ COMPARISON:  Comparison is made to noncontrast head CTs obtained [**2177-8-29**],
+ [**2177-8-31**] and [**2177-9-1**].
+
+ FINDINGS:
+
+ There are multifocal FLAIR/T2 hyperintensities and corresponding increased
+ susceptibility artifact on GRE images in the subcortical regions of the
+ bilateral frontal, parietal and temporal lobes.  These are consistent with
+ hemorrhagic diffuse axonal injury.  There are small hemorrhagic cortical
+ contusions in the left superior anterior and posterior frontal lobes.  There
+ is a non-hemorrhagic focus of diffuse axonal injury in the left splenium of
+ the corpus callosum, with slow diffusion and high T2 signal. The ventricles
+ are normal in size and configuration.
+
+ There is opacification of the bilateral mastoid air cells and the right
+ sphenoid sinus, as well as aerosolized secretions in the left maxillary sinus,
+ likely due to endotracheal intubation.
+
+ IMPRESSION:
+
+ Multifocal hemorrhagic [**Doctor First Name **] in the subcortical white matter.  A focus of
+ nonhemorrhagic [**Doctor First Name **] in the left splenium of the corpus callosum.  Small
+ hemorrhagic cortical contusions in the left frontal lobe.
+                                                             (Over)
+
+ [**2177-9-2**] 1:05 PM
+ MR HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 20448**]
+ Reason: interval changes/?evolving L sided weakness
+ Admitting Diagnosis: MOTOR VEHICLE ACCIDENT WITH UNSPECIFIED INJURIES
+ ______________________________________________________________________________
+                                 FINAL REPORT
+ (Cont)
+
+;[**Last Name (LF) 231**],[**First Name3 (LF) 232**] M.                     [**Last Name (un) 37**] TSICU                [**2177-9-2**]  1:05 PM
+ MR HEAD W/O CONTRAST                                            Clip # [**Clip Number (Radiology) 20448**]
+ Reason: interval changes/?evolving L sided weakness
+ Admitting Diagnosis: MOTOR VEHICLE ACCIDENT WITH UNSPECIFIED INJURIES
+ ______________________________________________________________________________
+ [**Hospital 2**] MEDICAL CONDITION:
+  21 year old man with MCC
+ REASON FOR THIS EXAMINATION:
+  interval changes/?evolving L sided weakness
+ No contraindications for IV contrast
+ ______________________________________________________________________________
+                                  PFI REPORT
+ PFI:  Multifocal subcortical hemorrhagic [**Doctor First Name **] seen in the bilateral frontal,
+ parietal and temporal lobes.  Small hemorrhagic cortical contusions in the
+ left superior anterior and posterior frontal lobe.  Small foci of
+ nonhemorrhagic [**Doctor First Name **] in left splenium of corpus callosum.  Paranasal sinus
+ disease as described above.
+
+;[**2177-9-2**] 4:46 AM
+ CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 21491**]
+ Reason: interval change
+ Admitting Diagnosis: MOTOR VEHICLE ACCIDENT WITH UNSPECIFIED INJURIES
+ ______________________________________________________________________________
+ [**Hospital 2**] MEDICAL CONDITION:
+  21 year old man with moped vs tree
+ REASON FOR THIS EXAMINATION:
+  interval change
+ ______________________________________________________________________________
+                                 FINAL REPORT
+ HISTORY:  Injury, to assess for change.
+
+ FINDINGS:  In comparison with the study of [**9-1**], the monitoring and support
+ devices remain in place.  Right pleural effusion is again seen, and there has
+ been almost complete clearing of the right basilar atelectasis.  Mild
+ atelectatic changes are seen at the left base.  No evidence of pneumothorax.
+
+
+;[**2177-9-2**] 1:06 PM
+ MR CERVICAL SPINE W/O CONTRAST                                  Clip # [**Clip Number (Radiology) 20449**]
+ Reason: interval changes/?evolving L sided weakness
+ Admitting Diagnosis: MOTOR VEHICLE ACCIDENT WITH UNSPECIFIED INJURIES
+ ______________________________________________________________________________
+ [**Hospital 2**] MEDICAL CONDITION:
+  21 year old man with MCC
+ REASON FOR THIS EXAMINATION:
+  interval changes/?evolving L sided weakness
+ No contraindications for IV contrast
+ ______________________________________________________________________________
+ PROVISIONAL FINDINGS IMPRESSION (PFI): PBec TUE [**2177-9-2**] 5:50 PM
+  PFI:  Increased signal in the interspinous ligaments of C3-C4, C4-C5, C5-C6,
+  C6-C7 and C7-T1.  Global central canal narrowing due to congenital short
+  pedicles.  Degenerative joint disease as described above.
+ ______________________________________________________________________________
+                                 FINAL REPORT
+ INDICATION:  21-year-old male status post motor vehicle collision, now with
+ evolving left-sided weakness.
+
+ TECHNIQUE:  Sagittal short TR, short TE spin echo, long TR, long TE fast-spin
+ echo, and STIR images were obtained.  Axial gradient echo scans and long TR,
+ long TE fast-spin echo imaging was performed.  No contrast was administered.
+
+ COMPARISON:  Comparison is made to non-contrast cervical spine CT performed
+ [**2177-8-29**].
+
+ FINDINGS:
+
+ Alignment of the cervical spine is normal.  Vertebral body height and bone
+ marrow signal are normal. The anterior and posterior longitudinal ligaments
+ appear intact. There is increased STIR signal in the interspinous ligaments
+ from C3-C4 through C7-T1, consistent with edema.  However, there is no
+ distraction of the spinous processes. There is posterior subcutaneous soft
+ tissue edema, which is nonspecific but could be related to prolonged supine
+ positioning.
+
+ The cervical spinal canal demonstrates global mild narrowing due to congenital
+ short pedicles.  This is slightly exacerbated by a small disc bulge at C3-4.
+ There is no focal cord signal abnormality to indicate contusion.  There is no
+ evidence of an epidural hematoma.
+
+ At C4-C5, there are right uncovertebral osteophytes with moderate narrowing of
+ the right neural foramen.
+
+ The posterior fossa is better evaluated on the concurrent head MRI.
+
+ IMPRESSION:
+ 1. Edema in the interspinous ligaments from C3-C4 through C7-T1, without
+ evidence of distraction.
+ 2. Global central canal narrowing due to congenital short pedicles.  This is
+ slightly exacerbated by a disc bulge at C3-4.  No cord signal abnormality.
+ 3. Moderate right C4-5 neural foramen narrowing due to uncovertebral
+                                                             (Over)
+
+ [**2177-9-2**] 1:06 PM
+ MR CERVICAL SPINE W/O CONTRAST                                  Clip # [**Clip Number (Radiology) 20449**]
+ Reason: interval changes/?evolving L sided weakness
+ Admitting Diagnosis: MOTOR VEHICLE ACCIDENT WITH UNSPECIFIED INJURIES
+ ______________________________________________________________________________
+                                 FINAL REPORT
+ (Cont)
+ osteophytes.
+
+"
+88.0,100.0,101.2,127.5,89.5,72.5,23.0,,,25.0,40.0,7.42,42.0,100.0,,8.0,,7.5,106.0,0.7,,136.0,,1.8,3.2,3.9,,,24.6,8.8,24.7,7.7,,,21,1,0,0,341,94,,,,
+87.5,99.5,,134.5,102.5,87.0,23.0,,3.0,25.0,,7.42,42.0,99.5,,8.0,,7.5,106.0,0.7,,135.0,,1.8,,,,,24.6,8.8,24.7,7.7,,,21,1,0,0,341,95,,,,
+90.0,99.0,,125.5,103.0,92.0,24.5,,,,,,,99.0,,,,,107.0,,,,,,,3.6,,,,,,,,,21,1,0,0,341,96,,,,
+91.0,99.0,100.5,127.5,99.0,85.0,26.666666666666668,,,,40.0,,,99.0,,,,,107.0,,,,,,,,,,,,,,,,21,1,0,0,341,97,,,,
+88.0,99.5,100.5,134.0,99.5,82.0,26.0,,,,40.0,,,99.5,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,98,,,,
+84.5,100.0,,152.5,105.5,86.0,24.5,,,,,,,100.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,99,,,,
+85.5,100.0,100.8,154.0,101.0,79.0,25.0,,,,40.0,,,100.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,100,,,,
+98.0,99.5,100.8,142.5,113.0,99.5,22.333333333333332,,,,40.0,,,99.5,,,,,,,,148.0,,,,,,,,,,,,,21,1,0,0,341,101,,,,
+96.0,98.5,,123.5,114.5,109.5,20.5,,,,,,,98.5,,,,,,,,148.0,,,,,,,,,,,,,21,1,0,0,341,102,,,,
+86.0,98.0,100.7,138.0,105.5,91.5,26.0,,,,,,,98.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,103,,,,
+86.0,98.5,100.7,151.5,100.5,79.5,24.5,,,,40.0,,,98.5,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,104,,,,
+84.5,99.5,99.8,138.0,90.5,70.0,22.0,,,,40.0,,,99.5,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,105,,,,
+88.5,100.0,99.8,157.5,101.5,79.0,21.5,,,,,,,100.0,,,,,,,,130.0,,,,,,,,,,,,,21,1,0,0,341,106,,,,
+91.0,100.0,,171.0,109.0,86.0,20.0,,,,,,,100.0,,,,,,,,130.0,,,,,,,,,,,,,21,1,0,0,341,107,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,108,,,,
+79.0,100.0,100.2,165.0,103.0,78.5,25.0,,,,,,,100.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,109,,,,
+77.0,100.0,100.2,153.5,95.5,73.0,24.0,,,,,7.43,49.0,100.0,,,,,,,,,,,,3.5,,,24.2,,,,,,21,1,0,0,341,110,,,,
+78.0,100.0,,147.5,94.0,73.0,21.0,,7.0,,,7.43,49.0,100.0,,,,,,,,,,,,3.5,,,24.2,,,,,,21,1,0,0,341,111,,,,
+80.0,100.0,,157.5,105.0,83.0,21.0,,,,40.0,,,100.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,112,,,,
+78.5,100.0,100.7,159.0,103.0,79.5,21.0,,,,40.0,,,100.0,,,,,,,,116.0,,,,,,,,,,,,,21,1,0,0,341,113,,,,
+81.5,100.0,100.7,161.0,99.5,75.0,22.5,,,,,,,100.0,,,,,,,,116.0,,,,,,,,,,,,,21,1,0,0,341,114,,,,
+95.0,100.0,,166.5,99.0,74.0,25.0,,,,,,,100.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,115,,,,
+110.0,99.5,,157.0,91.0,68.0,27.0,,,,,,,99.5,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,116,,,,
+108.0,99.5,101.5,154.0,90.5,67.5,26.0,,,27.0,40.0,7.44,45.0,99.5,,9.0,,7.6,105.0,0.6,,119.0,,1.9,3.0,3.8,,,26.2,9.3,,8.9,,,21,1,0,0,341,117,,,,"[**2177-9-3**] 1:48 PM
+ CHEST (PORTABLE AP); -77 BY DIFFERENT PHYSICIAN                 [**Name Initial (PRE) 26**] # [**Clip Number (Radiology) 21188**]
+ Reason: interval change
+ Admitting Diagnosis: MOTOR VEHICLE ACCIDENT WITH UNSPECIFIED INJURIES
+ ______________________________________________________________________________
+ [**Hospital 2**] MEDICAL CONDITION:
+  21 year old man s/p bronch
+ REASON FOR THIS EXAMINATION:
+  interval change
+ ______________________________________________________________________________
+                                 FINAL REPORT
+ SINGLE AP PORTABLE VIEW OF THE CHEST
+
+ REASON FOR EXAM:  Status post bronchoscopy.
+
+ Comparison is made with prior study performed four hours earlier.
+
+ Evaluation of this study is slightly limited.  It was centered in the
+ thoracoabdominal region, the right CP angle and the apices of the lungs were
+ not included on this film.  There is apparent increase in left lower lobe
+ retrocardiac opacity consistent with increasing atelectasis.  Right lower lobe
+ opacity is a combination of pleural effusion and atelectasis, unchanged from
+ prior.  ET tube is in the standard position.  NG tube is in the stomach.  The
+ cardiac silhouette is accentuated by the projection.  The cardiac size is top
+ normal.
+
+;[**2177-9-3**] 10:06 AM
+ CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 20940**]
+ Reason: evaluate interval change
+ Admitting Diagnosis: MOTOR VEHICLE ACCIDENT WITH UNSPECIFIED INJURIES
+ ______________________________________________________________________________
+ [**Hospital 2**] MEDICAL CONDITION:
+  21 year old man s/p scooter vs tree
+ REASON FOR THIS EXAMINATION:
+  evaluate interval change
+ ______________________________________________________________________________
+                                 FINAL REPORT
+ INDICATION:  Status post scooter versus tree, evaluation for interval change.
+
+ COMPARISON:  [**2177-9-2**].
+
+ FINDINGS:  As compared to the previous radiograph, the monitoring and support
+ devices are unchanged.  Unchanged size of the cardiac silhouette.  Unchanged
+ normal appearance of the left lung.  On the right, the pleural effusion shows
+ a slightly different distribution but overall has not increased in extent.  No
+ newly appeared focal parenchymal opacities suggesting pneumonia.
+
+
+;[**2177-9-3**] 7:58 AM
+ BILAT LOWER EXT VEINS                                           Clip # [**Clip Number (Radiology) 20775**]
+ Reason: SWELLING, R/O DVT
+ Admitting Diagnosis: MOTOR VEHICLE ACCIDENT WITH UNSPECIFIED INJURIES
+ ______________________________________________________________________________
+ [**Hospital 2**] MEDICAL CONDITION:
+  21 year old man with multi-trauma
+ REASON FOR THIS EXAMINATION:
+  r/o dvt
+ ______________________________________________________________________________
+                                 FINAL REPORT
+ INDICATION:  21-year-old with multi-trauma.
+
+ No prior examinations.
+
+ BILATERAL LOWER EXTREMITY ULTRASOUND:  Grayscale and Doppler examination of
+ the right and left common femoral, superficial femoral and popliteal veins
+ were performed and demonstrate normal compressibility, augmentability and
+ respiratory variation in flow.  No intraluminal thrombus is identified.
+
+ IMPRESSION:  No deep venous thrombosis involving the right or left lower
+ extremity.
+
+;[**2177-9-3**] 12:29 PM
+ UNILAT UP EXT VEINS US LEFT                                     Clip # [**Clip Number (Radiology) 21050**]
+ Reason: SWELLING, R/O DVT
+ Admitting Diagnosis: MOTOR VEHICLE ACCIDENT WITH UNSPECIFIED INJURIES
+ ______________________________________________________________________________
+ [**Hospital 2**] MEDICAL CONDITION:
+  21 year old man with [**Doctor First Name **], no movement in LUE
+ REASON FOR THIS EXAMINATION:
+  r/o DVT
+ ______________________________________________________________________________
+                                 FINAL REPORT
+ INDICATION:  21-year-old with diffuse axonal injury and no movement in left
+ upper extremity.  Rule out DVT.
+
+ No prior examinations.
+
+ LEFT UPPER EXTREMITY VENOUS ULTRASOUND:  [**Doctor Last Name **] scale and Doppler examination of
+ the left internal jugular, subclavian, axillary, brachial, basilic and
+ cephalic veins were performed and demonstrate normal compressibility,
+ augmentibility and respiratory variation in flow.  No intraluminal thrombus is
+ identified.
+
+ IMPRESSION:  No deep venous thrombosis in the left upper extremity.
+
+"
+100.5,100.0,101.5,150.5,89.5,66.5,25.5,,6.0,27.0,40.0,7.44,45.0,100.0,,9.0,,7.6,105.0,0.6,,119.5,,1.9,,,,,26.2,9.3,,8.9,,,21,1,0,0,341,118,,,,
+94.0,100.0,100.5,141.0,85.0,63.5,24.5,,6.0,,,7.44,45.0,100.0,,,,,,,,120.0,,,,,,,,,,,,,21,1,0,0,341,119,,,,
+95.5,100.0,100.5,145.5,90.5,68.0,24.5,,,,,,,100.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,120,,,,
+99.0,99.5,100.3,136.0,87.5,66.5,24.75,,,,40.0,,,99.5,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,121,,,,
+92.0,99.5,100.3,122.0,78.0,59.0,24.75,,,,40.0,,,99.5,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,122,,,,
+84.5,100.0,,136.0,83.5,63.5,25.5,,,,,,,100.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,123,,,,
+80.5,99.5,101.1,146.5,89.0,67.5,26.0,,,,40.0,,,99.5,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,124,,,,
+85.0,99.5,101.1,145.5,89.5,67.5,27.0,,,,40.0,,,99.5,,,,,,,,139.0,,,,,,,,,,,,,21,1,0,0,341,125,,,,
+90.0,99.5,,145.0,91.0,62.333333333333336,27.5,,,,,,,99.5,,,,,,,,139.0,,,,,,,,,,,,,21,1,0,0,341,126,,,,
+84.0,99.0,100.8,140.0,,54.0,26.5,,,,,,,99.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,127,,,,
+80.0,99.0,100.8,132.0,,54.0,25.0,,,,40.0,,,99.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,128,,,,
+82.0,99.0,100.7,132.0,,54.0,25.0,,,,70.0,,,99.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,129,,,,
+83.5,98.0,100.7,133.5,,50.0,26.5,,,,85.0,,,98.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,130,,,,
+83.0,98.5,,134.5,,55.5,25.5,,,,70.0,,,98.5,,,,,,,,122.0,,,,,,,,,,,,,21,1,0,0,341,131,,,,
+80.5,97.5,,145.5,,62.5,29.666666666666668,,,,40.0,,,97.5,,,,,,,,122.0,,,,,,,,,,,,,21,1,0,0,341,132,,,,
+95.5,92.5,100.7,152.0,,68.0,32.5,,,,40.0,,,92.5,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,133,,,,
+105.5,93.5,100.7,150.5,,65.5,32.0,,,,,,,93.5,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,134,,,,
+98.0,96.5,,139.5,,58.5,38.5,,,,,,,96.5,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,135,,,,
+95.5,96.0,,130.5,,54.0,33.0,,,,,,,96.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,136,,,,
+95.5,97.0,102.5,133.0,,49.0,21.333333333333332,,,,40.0,,,97.0,,,,,,,,137.0,,,,,,,,,,,,,21,1,0,0,341,137,,,,
+92.0,98.5,102.15,144.5,,65.5,20.0,,,,40.0,,,98.5,,,,,,,,137.0,,,,,,,,,,,,,21,1,0,0,341,138,,,,
+81.5,99.0,101.6,138.5,,69.5,15.5,,,,,,,99.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,139,,,,
+81.0,99.5,101.4,136.5,,62.0,13.5,,,,,,,99.5,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,140,,,,
+94.5,93.5,101.1,142.0,,52.0,20.333333333333332,,,,40.0,,,93.5,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,141,,,,"[**2177-9-4**] 3:46 PM
+ ABDOMEN (SUPINE ONLY) IN O.R.; ABDOMINAL FLUORO WITHOUT RADIOLOGISTClip # [**Telephone/Fax (1) 21494**]
+ Reason: IVC FILTER
+ Admitting Diagnosis: MOTOR VEHICLE ACCIDENT WITH UNSPECIFIED INJURIES
+ ______________________________________________________________________________
+                                 FINAL REPORT
+ INDICATION:  21-year-old male for IVC filter placement.
+
+ COMPARISON:  Bilateral lower extremity vein mapping from [**2177-9-3**].
+
+ FINDINGS:  Five fluoroscopic spot views were submitted for review.
+ Catheterization of the inferior vena cava is noted with subsequent contrast
+ injection.  An IVC filter is then placed.
+
+ IMPRESSION:  Placement of an IVC filter.
+
+
+;[**2177-9-4**] 5:39 AM
+ CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 21493**]
+ Reason: interval change
+ Admitting Diagnosis: MOTOR VEHICLE ACCIDENT WITH UNSPECIFIED INJURIES
+ ______________________________________________________________________________
+ [**Hospital 2**] MEDICAL CONDITION:
+  21 year old man s/p scooter vs tree
+ REASON FOR THIS EXAMINATION:
+  interval change
+ ______________________________________________________________________________
+                                 FINAL REPORT
+ CHEST RADIOGRAPH
+
+ INDICATION:  Status post scooter accident.
+
+ COMPARISON:  [**2177-9-3**].
+
+ FINDINGS:  As compared to the previous radiograph, the position of the
+ endotracheal tube and the nasogastric tube are unchanged.  Unchanged size of
+ the cardiac silhouette.  Unchanged evidence of right pleural effusion.
+ Improving retrocardiac atelectasis.  No evidence of pneumothorax.  No newly
+ appeared focal parenchymal opacities suggesting pneumonia.
+
+
+"
+95.0,91.5,101.1,146.0,,89.5,22.333333333333332,,,30.0,40.0,,,91.5,,11.0,,8.0,103.0,0.7,,125.0,,2.0,4.3,4.2,,,27.3,9.5,,7.7,,,21,1,0,0,341,142,,,,
+89.5,95.5,100.2,135.0,,75.5,20.5,,,30.0,,,,95.5,,11.0,,8.0,103.0,0.7,,125.0,,2.0,,,,,27.3,9.5,,7.7,,,21,1,0,0,341,143,,,,
+86.0,94.5,100.2,133.5,,64.5,21.0,,,,,,,94.5,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,144,,,,
+81.0,95.5,100.7,129.0,,78.0,19.0,,,,40.0,,,95.5,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,145,,,,
+82.5,96.5,100.7,128.5,,77.0,17.666666666666668,,,,40.0,,,96.5,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,146,,,,
+85.0,97.0,100.5,140.0,,59.0,16.0,,,,,,,97.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,147,,,,
+85.0,98.5,100.5,152.0,,55.0,17.0,,,,40.0,,,98.5,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,148,,,,
+85.0,99.0,100.7,147.0,,63.0,17.0,,,,40.0,,,99.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,149,,,,
+84.5,99.5,100.7,153.0,,62.0,16.0,,,,,,,99.5,,,,,,,,145.0,,,,,,,,,,,,,21,1,0,0,341,150,,,,
+87.5,99.5,,162.5,,55.5,15.0,,,,,,,99.5,,,,,,,,145.0,,,,,,,,,,,,,21,1,0,0,341,151,,,,
+86.5,99.5,,162.5,,55.5,14.5,,,,40.0,,,99.5,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,152,,,,
+81.66666666666667,99.5,99.2,167.0,,57.333333333333336,14.5,,,,40.0,,,99.5,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,153,,,,
+101.5,99.0,99.2,168.0,,63.0,19.0,,,,,,,99.0,,,,,,,,131.0,,,,,,,,,,,,,21,1,0,0,341,154,,,,
+107.0,99.0,,164.0,,71.0,19.5,,,,,,,99.0,,,,,,,,131.0,,,,,,,,,,,,,21,1,0,0,341,155,,,,
+97.0,100.0,,152.0,,57.5,16.0,,,,,,,100.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,156,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,157,,,,
+117.0,99.5,100.7,160.0,,79.0,9.666666666666666,,,,40.0,,,99.5,,,,,,,,,,,,,,,,,,,,20.0,21,1,0,0,341,158,,,,
+107.33333333333333,98.5,100.55000000000001,151.0,,63.0,23.0,,,,,,,98.5,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,159,,,,
+101.0,98.5,101.0,147.5,,53.0,24.0,,,,,,,98.5,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,160,,,,
+102.0,99.0,101.1,148.0,,51.5,15.0,,,,40.0,,,99.0,,,,,,,,126.0,,,,,,,,,,,,,21,1,0,0,341,161,,,,
+100.0,99.5,101.2,149.0,,51.0,14.0,,,,40.0,,,99.5,,,,,,,,126.0,,,,,,,,,,,,,21,1,0,0,341,162,,,,
+97.5,100.0,102.1,146.0,,66.0,18.0,,,,,,,100.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,163,,,,
+94.5,100.0,102.1,151.0,,58.0,17.5,,,,,,,100.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,164,,,,
+102.0,100.0,101.8,150.0,,43.0,13.333333333333334,,,,40.0,,,100.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,165,,,,"[**2177-9-5**] 4:26 AM
+ CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 21705**]
+ Reason: evaluate tip position
+ Admitting Diagnosis: MOTOR VEHICLE ACCIDENT WITH UNSPECIFIED INJURIES
+ ______________________________________________________________________________
+ [**Hospital 2**] MEDICAL CONDITION:
+  21 year old man s/p dubhoff placement
+ REASON FOR THIS EXAMINATION:
+  evaluate tip position
+ ______________________________________________________________________________
+                                 FINAL REPORT
+ INDICATION:  Motor vehicle accident.  Recent Dobbhoff tube placement.
+
+ FINDINGS:  The tip of the Dobbhoff tube is projected over the gastric bubble,
+ in satisfactory position.  The previous left lower lobe atelectasis has
+ slightly improved.  An IVC filter and endotracheal tube are incidentally noted
+ and are in satisfactory radiographic position.
+
+ IMPRESSION:  Satisfactory placement of Dobbhoff tube.
+
+;[**2177-9-5**] 3:17 PM
+ CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 26**] # [**Clip Number (Radiology) 20457**]
+ Reason: Eval interval change post bronchoscopy
+ Admitting Diagnosis: MOTOR VEHICLE ACCIDENT WITH UNSPECIFIED INJURIES
+ ______________________________________________________________________________
+ [**Hospital 2**] MEDICAL CONDITION:
+  21 year old man with multi trauma
+ REASON FOR THIS EXAMINATION:
+  Eval interval change post bronchoscopy
+ ______________________________________________________________________________
+                                 FINAL REPORT
+ INDICATION:  Motor vehicle accident.  Evaluate post-bronchoscopy.
+
+ FINDINGS:  Resolving left lower lobe atelectasis is mild when compared to a
+ radiograph performed 9 hours on the same day.  The lungs, cardiac and
+ mediastinal structures are otherwise normal.  The tracheostomy and Dobbhoff
+ tubes are in satisfactory position.  Deformity of the left humeral proximal
+ shaft suggests a previous healed fracture.
+
+ IMPRESSION:  Resolving minor left lower lobe atelectasis.  No evidence of
+ pneumothorax.
+
+
+"
+99.0,100.0,101.8,147.5,,71.0,18.333333333333332,,,,40.0,,,100.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,166,,,,
+81.0,100.0,100.8,134.0,,59.0,22.0,,,30.0,,,,100.0,70.0,12.0,154.0,7.8,102.0,0.7,,142.5,,2.0,4.6,4.3,,,26.9,9.0,,8.4,,,21,1,0,0,341,167,,,,
+82.0,100.0,100.8,125.0,,55.0,19.5,,,30.0,,,,100.0,,12.0,154.0,7.8,102.0,0.7,,142.5,,2.0,,,,,26.9,9.0,,8.4,,,21,1,0,0,341,168,,,,
+90.5,100.0,100.1,156.0,,75.5,18.333333333333332,,,,40.0,,,100.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,169,,,,
+93.0,100.0,100.1,162.0,,72.0,19.25,,,,40.0,,,100.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,170,,,,
+90.5,100.0,100.1,162.5,,65.0,15.0,,,,,,,100.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,171,,,,
+89.5,100.0,100.1,164.0,,60.0,17.5,,,,,,,100.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,172,,,,
+89.0,100.0,99.5,149.5,,73.5,23.333333333333332,,,,40.0,,,100.0,,,,,,,,140.0,,,,,,,,,,,,,21,1,0,0,341,173,,,,
+99.0,100.0,99.5,152.5,,67.0,26.0,,,,40.0,,,100.0,,,,,,,,140.0,,,,,,,,,,,,,21,1,0,0,341,174,,,,
+116.5,99.5,101.4,165.0,,73.5,16.5,,,,,,,99.5,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,175,,,,
+115.5,99.5,101.4,164.0,,69.5,19.5,,,,,,,99.5,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,176,,,,
+107.5,100.0,101.1,154.0,,63.5,22.5,,,,40.0,,,100.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,177,,,,
+102.0,100.0,101.1,146.5,,65.5,20.5,,,,40.0,,,100.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,178,,,,
+94.5,100.0,99.8,143.5,,63.0,15.5,,,,,,,100.0,,,,,,,,152.0,,,,,,,,,,,,,21,1,0,0,341,179,,,,
+85.0,100.0,99.8,151.5,,66.5,18.5,,,,,,,100.0,,,,,,,,152.0,,,,,,,,,,,,,21,1,0,0,341,180,,,,
+84.5,99.5,97.5,156.0,,64.5,21.5,,,,,,,99.5,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,181,,,,
+89.0,99.5,97.5,149.5,,64.5,20.0,,,,40.0,,,99.5,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,182,,,,
+88.5,100.0,,147.5,,74.0,21.0,,,,40.0,,,100.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,183,,,,
+98.5,100.0,,154.0,,77.0,22.5,,,,,,,100.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,184,,,,
+104.0,100.0,102.0,153.0,,72.0,21.333333333333332,,,,40.0,,,100.0,,,,,,,,182.0,,,,,,,,,,,,,21,1,0,0,341,185,,,,
+106.0,100.0,102.0,150.0,,67.5,22.333333333333332,,,,40.0,,,100.0,,,,,,,,182.0,,,,,,,,,,,,,21,1,0,0,341,186,,,,
+106.5,99.5,,150.0,,67.0,22.0,,,,,,,99.5,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,187,,,,
+95.5,99.5,100.8,145.0,,63.5,20.0,,,,,,,99.5,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,188,,,,
+92.0,100.0,100.8,139.0,,71.5,20.0,,,,40.0,,,100.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,189,,,,"[**2177-9-6**] 12:00 PM
+ CHEST (PORTABLE AP); -76 BY SAME PHYSICIAN                      [**Name Initial (PRE) 26**] # [**Clip Number (Radiology) 20776**]
+ Reason: eval dobhoff placement
+ Admitting Diagnosis: MOTOR VEHICLE ACCIDENT WITH UNSPECIFIED INJURIES
+ ______________________________________________________________________________
+ [**Hospital 2**] MEDICAL CONDITION:
+  21 year old man with multitrauma
+ REASON FOR THIS EXAMINATION:
+  eval dobhoff placement
+ ______________________________________________________________________________
+                                 FINAL REPORT
+ CHEST X-RAY
+
+ HISTORY:  Dobbhoff tube placement.
+
+ One view.  Comparison with the previous study done earlier the same day.  The
+ lung apices are not included.  Visualized portions of the lungs are clear.  An
+ endotracheal tube remains in place.  A feeding tube has been replaced.  The
+ current feeding tube is coiled in the region of the upper body and fundus of
+ the stomach and terminates in the stomach near the GE junction.
+
+ IMPRESSION:  Feeding tube placement as described.
+
+
+;[**2177-9-6**] 5:17 AM
+ CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 21865**]
+ Reason: eval interval change
+ Admitting Diagnosis: MOTOR VEHICLE ACCIDENT WITH UNSPECIFIED INJURIES
+ ______________________________________________________________________________
+ [**Hospital 2**] MEDICAL CONDITION:
+  21 year old man with SCI
+ REASON FOR THIS EXAMINATION:
+  eval interval change
+ ______________________________________________________________________________
+                                 FINAL REPORT
+
+ CHEST X-RAY.
+
+ HISTORY:  Bronchoscopy.
+
+ One view.  Comparison with the previous study done [**2177-9-5**].  The lungs now
+ appear clear.  The heart and mediastinal structures are unchanged.  An
+ endotracheal tube and feeding tube remain in place.
+
+ IMPRESSION:  Clear lungs.
+
+"
+92.0,100.0,,141.0,,70.5,19.0,,,28.0,40.0,,,100.0,,12.0,,8.3,103.0,0.6,,128.0,,2.1,3.8,4.0,,,26.5,9.0,,12.1,,,21,1,0,0,341,190,,,,
+93.5,100.0,101.0,140.0,,66.0,18.5,,,28.0,,,,100.0,,12.0,,8.3,103.0,0.6,,136.5,,2.1,,,,,26.5,9.0,,12.1,,,21,1,0,0,341,191,,,,
+100.5,99.5,101.0,142.0,,70.0,19.5,,,,,,,99.5,,,,,,,,145.0,,,,,,,,,,,,,21,1,0,0,341,192,,,,
+101.0,99.0,101.2,148.5,,66.5,23.0,,,,40.0,,,99.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,193,,,,
+98.0,99.5,101.2,146.5,,67.5,24.0,,,,40.0,,,99.5,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,194,,,,
+98.0,100.0,,146.0,,67.0,21.5,,,,,7.44,44.0,100.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,195,,,,
+99.0,99.5,,150.5,,81.0,19.5,,5.0,,,7.44,44.0,99.5,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,196,,,,
+102.0,99.0,100.1,151.0,,97.0,24.0,,,,40.0,,,99.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,197,,,,
+96.5,90.0,100.1,152.5,,74.0,24.0,,,,40.0,,,90.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,198,,,,
+93.0,100.0,,147.0,,65.0,21.0,,,,,,,100.0,,,,,,,,140.0,,,,,,,,,,,,,21,1,0,0,341,199,,,,
+91.0,100.0,,153.0,,73.5,21.5,,,,,,,100.0,,,,,,,,140.0,,,,,,,,,,,,,21,1,0,0,341,200,,,,
+90.5,100.0,100.1,153.0,,70.5,25.666666666666668,,,,40.0,,,100.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,201,,,,
+101.0,100.0,100.1,155.0,,77.0,26.333333333333332,,,,40.0,,,100.0,,,,,,,,165.0,,,,,,,,,,,,,21,1,0,0,341,202,,,,
+101.0,100.0,,159.5,,72.0,31.0,,,,,,,100.0,,,,,,,,165.0,,,,,,,,,,,,,21,1,0,0,341,203,,,,
+100.5,100.0,,166.0,,73.0,33.5,,,,,,,100.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,204,,,,
+109.0,100.0,102.7,163.0,,87.0,34.5,,,,40.0,,,100.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,205,,,,
+123.0,100.0,102.7,154.0,,93.0,29.0,,,,40.0,,,100.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,206,,,,
+123.0,100.0,102.0,182.0,,102.0,26.5,,,,,,,100.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,207,,,,
+115.5,96.0,102.0,180.0,,92.0,28.0,,,,,,,96.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,208,,,,
+116.0,100.0,101.3,155.5,,54.0,23.5,,,,,,,100.0,,,,,,,,146.0,,,,,,,,,,,,,21,1,0,0,341,209,,,,
+111.5,100.0,101.3,147.5,,50.5,26.333333333333332,,,,40.0,,,100.0,,,,,,,,146.0,,,,,,,,,,,,,21,1,0,0,341,210,,,,
+107.5,100.0,,148.5,,45.5,29.333333333333332,,,,40.0,,,100.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,211,,,,
+107.0,99.5,101.9,154.0,,45.0,27.5,,,,,,,99.5,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,212,,,,
+105.5,99.5,100.9,142.0,,66.0,20.666666666666668,,,,40.0,,,99.5,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,213,,,,"[**2177-9-7**] 2:08 PM
+ CT SINUS/MANDIBLE/MAXILLOFACIAL W/O CONTRAST                    Clip # [**Clip Number (Radiology) 20451**]
+ Reason: eval sinusitis
+ Admitting Diagnosis: MOTOR VEHICLE ACCIDENT WITH UNSPECIFIED INJURIES
+ ______________________________________________________________________________
+ [**Hospital 2**] MEDICAL CONDITION:
+  21 year old man with multisystem trauma, now with fever and leukocytosis of
+  unknown source
+ REASON FOR THIS EXAMINATION:
+  eval sinusitis
+ No contraindications for IV contrast
+ ______________________________________________________________________________
+ WET READ: SPfc SUN [**2177-9-7**] 3:03 PM
+  paranasal sinus disease appears progressed from [**0-0-0**] w opacification of
+  the left maxillary sinus and mucosal thickening in the ethoidal aircells and
+  sphenoid sinus
+ ______________________________________________________________________________
+                                 FINAL REPORT
+ INDICATION:  Fever and leukocytosis in a patient with recent trauma, now with
+ question of sinusitis.
+
+ COMPARISON:  [**2177-9-1**].
+
+ TECHNIQUE:  Axial CT images were acquired through the sinuses without
+ intravenous contrast.  Coronal images were also reviewed.
+
+ FINDINGS:  There is new, near total opacification of the left maxillary sinus
+ with only a tiny locule of gas seen within the sinus.  There is also resultant
+ obstruction of the ostiomeatal unit on that side as well as circumferential
+ mucosal thickening of scattered left ethmoidal air cells extending into the
+ frontoethmoidal recess.  On the right, the maxillary sinus is clear.  There is
+ minimal mucosal thickening seen in scattered ethmoidal air cells and the
+ frontal sinus is clear.  There is moderate mucosal thickening of the sphenoid
+ sinus.  The right ostiomeatal unit is patent.  The nasal septum is relatively
+ midline.  Tiny locules of gas are seen in the nasolacrimal duct on the left.
+ There is no fracture.  Imaged intracranial contents reveal no acute
+ abnormalities.
+
+ IMPRESSION:
+ 1.  Paranasal sinus disease, appearing progressed from the comparison studies
+ most notably involving the left maxillary sinus, ethmoidal air cells and
+ sphenoid sinus.
+
+
+;[**2177-9-7**] 2:09 PM
+ CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 20452**]
+ CT PELVIS W/CONTRAST
+ Reason: eval for acute process
+ Admitting Diagnosis: MOTOR VEHICLE ACCIDENT WITH UNSPECIFIED INJURIES
+  Contrast: OPTIRAY Amt: 130
+ ______________________________________________________________________________
+ [**Hospital 2**] MEDICAL CONDITION:
+  21 year old man with multisystem trauma, now with fever and leukocytosis of
+  unknown source
+ REASON FOR THIS EXAMINATION:
+  eval for acute process
+ No contraindications for IV contrast
+ ______________________________________________________________________________
+                                 FINAL REPORT
+ CT TORSO WITH CONTRAST
+
+ INDICATION:  21-year-old man with multisystem trauma, now with fever and
+ leukocytosis of unknown source.
+
+ COMPARISON:  CT torso with contrast, [**2177-8-29**].
+
+ TECHNIQUE:  Axial MDCT images were acquired from the thoracic inlet to the
+ symphysis pubis following intravenous contrast.  Coronal and sagittal
+ reformats were produced and reviewed.
+
+ CT CHEST WITH IV CONTRAST:
+ There has been interval insertion of a tracheostomy tube in adequate position.
+ Small right-sided pleural effusion unchanged compared to the previous study.
+ There is more extensive overlying atelectasis involving the right lower lobe
+ now, however.  No concerning pulmonary nodule is seen.  No axillary lymph
+ nodes.  There is a 1.5-cm right hilar lymph node, which was not identified on
+ the previous studies.  The heart, great vessels and pericardium are
+ unremarkable in appearance.
+
+ CT ABDOMEN WITH IV CONTRAST:
+ The previously demonstrated liver laceration is much less apparent.  No new
+ parenchymal liver lesion seen.  The spleen, both kidneys, both adrenal glands
+ and the pancreas are unremarkable in appearance.  No free air is seen.  IVC
+ filter noted in adequate position, no thrombus identified.
+
+ CT PELVIS WITH IV CONTRAST:
+ The rectum, urinary bladder are unremarkable.  There is a small amount of free
+ fluid in the pelvis.  This is lower in attenuation than on the previous study,
+ consistent with resolving blood.
+
+ OSSEOUS STRUCTURES:  Multiple right-sided rib fractures (fourth and fifth) as
+ well as fracture of the left first rib seen, unchanged compared the previous
+ study.  Fracture of the right transverse process of T1, which is undisplaced.
+ Normal configuration of both femoral heads consistent with dysplasia, no acute
+ finding.  Multiple osteochondromas noted.  These appearances are unchanged
+ compared with the previous study.
+
+                                                             (Over)
+
+ [**2177-9-7**] 2:09 PM
+ CT CHEST W/CONTRAST; CT ABDOMEN W/CONTRAST                      Clip # [**Clip Number (Radiology) 20452**]
+ CT PELVIS W/CONTRAST
+ Reason: eval for acute process
+ Admitting Diagnosis: MOTOR VEHICLE ACCIDENT WITH UNSPECIFIED INJURIES
+  Contrast: OPTIRAY Amt: 130
+ ______________________________________________________________________________
+                                 FINAL REPORT
+ (Cont)
+ IMPRESSION:
+
+ 1.  Small right pleural effusion with associated compressive atelectasis.
+
+ 2.  Considerable improvement in the appearance of the right lobe of the liver
+ laceration.
+
+ 3.  Small amount of free fluid in the pelvis.
+
+ 4.  Fractures of the left first and right fourth and fifth ribs.  Fracture of
+ the right transverse process of T1.
+
+;[**2177-9-7**] 4:49 AM
+ CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 20636**]
+ Reason: ?interval change
+ Admitting Diagnosis: MOTOR VEHICLE ACCIDENT WITH UNSPECIFIED INJURIES
+ ______________________________________________________________________________
+ [**Hospital 2**] MEDICAL CONDITION:
+  21 year old man with multitrauma, trach
+ REASON FOR THIS EXAMINATION:
+  ?interval change
+ ______________________________________________________________________________
+                                 FINAL REPORT
+ CHEST
+
+ HISTORY:  Multiple trauma.  Tracheostomy.
+
+ One view.  Comparison with [**2177-9-6**].  There is minimal hazy density at the right
+ costophrenic sulcus consistent with a small effusion and minimal streaky
+ density at the right base consistent with subsegmental atelectasis.  The lungs
+ appear otherwise clear.  The heart and mediastinal structures are unremarkable
+ for technique.  A feeding tube has been withdrawn.  A tracheostomy tube
+ remains in place.
+
+ IMPRESSION:  Removal of feeding tube.  No other significant change.
+
+
+"
+97.5,100.0,99.9,155.5,,73.0,20.333333333333332,,,,40.0,,,100.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,214,,,,
+85.5,100.0,,152.0,,73.5,25.0,,,27.0,,,,100.0,,12.0,,8.8,101.0,0.6,,118.0,,2.1,4.2,4.0,,,27.6,9.3,,14.4,,,21,1,0,0,341,215,,,,
+81.5,100.0,,146.0,,69.0,25.0,,,27.0,40.0,,,100.0,,12.0,,8.8,101.0,0.6,,118.0,,2.1,,,,,27.6,9.3,,14.4,,,21,1,0,0,341,216,,,,
+84.5,100.0,100.5,142.5,,71.0,24.0,,,,40.0,,,100.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,217,,,,
+89.5,99.5,100.5,141.5,,76.0,25.5,,,,,,,99.5,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,218,,,,
+91.5,99.0,,147.5,,75.5,25.333333333333332,,,,,,,99.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,219,,,,
+95.0,99.5,,148.5,,80.0,25.0,,,,40.0,,,99.5,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,220,,,,
+96.0,100.0,,139.5,,81.0,29.5,,,,40.0,,,100.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,221,,,,
+103.0,98.0,99.5,134.5,,66.5,31.0,,,,40.0,,,98.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,222,,,,
+102.5,96.0,99.5,131.0,,56.0,29.5,,,,,,,96.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,223,,,,
+91.0,97.0,,139.5,,64.5,29.0,,,,,,,97.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,224,,,,
+95.5,98.5,,139.0,,69.0,26.0,,,,,,,98.5,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,225,,,,
+96.5,99.5,99.1,143.0,,73.5,25.5,,,,,,,99.5,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,226,,,,
+94.0,99.0,99.1,147.0,,75.5,29.5,,,,,,,99.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,227,,,,
+93.5,98.5,,147.0,,69.5,30.5,,,,40.0,,,98.5,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,228,,,,
+87.0,99.0,,153.5,,47.5,25.5,,,,40.0,,,99.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,229,,,,
+90.0,99.0,99.2,155.5,,52.5,25.0,,,,,,,99.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,230,,,,
+95.0,99.5,99.2,149.0,,70.5,29.5,,,,,,,99.5,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,231,,,,
+87.0,100.0,99.9,143.5,,66.0,28.5,,,,,,,100.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,232,,,,
+83.0,99.0,99.9,138.0,,62.0,24.0,,,,40.0,,,99.0,,,,,,,,123.0,,,,,,,,,,,,,21,1,0,0,341,233,,,,
+89.5,99.0,,145.5,,59.0,26.5,,,,,,,99.0,,,,,,,,123.0,,,,,,,,,,,,,21,1,0,0,341,234,,,,
+90.5,100.0,,145.5,,64.0,33.0,,,,,,,100.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,235,,,,
+101.0,100.0,,146.5,,65.0,33.5,,,,,,,100.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,236,,,,
+115.0,99.0,99.8,144.0,,61.0,32.5,,,,40.0,,,99.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,237,,,,"[**2177-9-8**] 6:02 AM
+ CHEST (PORTABLE AP)                                             Clip # [**Clip Number (Radiology) 20941**]
+ Reason: Eval interval change
+ Admitting Diagnosis: MOTOR VEHICLE ACCIDENT WITH UNSPECIFIED INJURIES
+ ______________________________________________________________________________
+ [**Hospital 2**] MEDICAL CONDITION:
+  21 year old man with multisystem trauma
+ REASON FOR THIS EXAMINATION:
+  Eval interval change
+ ______________________________________________________________________________
+                                 FINAL REPORT
+ HISTORY:  Trauma, to assess for change.
+
+ FINDINGS:  In comparison with the study of [**9-7**], there is little overall
+ change.  Tracheostomy tube remains in place.  Mild bibasilar atelectasis,
+ without evidence of vascular congestion, pleural effusion, or frank pneumonia.
+
+
+"
+107.0,98.0,99.8,138.5,,61.0,30.5,,,27.0,40.0,,,98.0,,13.0,,8.6,100.0,0.6,,123.0,,2.1,4.5,4.3,,,29.7,10.0,,14.7,,,21,1,0,0,341,238,,,,
+103.5,97.0,,127.0,,72.5,26.0,,,27.0,,,,97.0,,13.0,,8.6,100.0,0.6,,121.0,,2.1,,,,,29.7,10.0,,14.7,,,21,1,0,0,341,239,,,,
+101.5,97.5,,130.0,,77.5,27.5,,,,,,,97.5,,,,,,,,119.0,,,,,,,,,,,,,21,1,0,0,341,240,,,,
+93.5,98.5,99.5,136.5,,66.0,28.0,,,,40.0,,,98.5,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,241,,,,
+85.0,99.0,99.5,133.0,,64.0,24.5,,,,40.0,,,99.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,242,,,,
+88.0,96.5,,136.5,,63.5,28.0,,,,,,,96.5,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,243,,,,
+98.0,95.5,98.8,142.0,,60.5,28.0,,,,,,,95.5,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,244,,,,
+98.5,99.0,98.8,142.0,,76.5,26.5,,,,40.0,,,99.0,,,,,,,,134.0,,,,,,,,,,,,,21,1,0,0,341,245,,,,
+102.5,97.5,,141.0,,72.5,26.5,,,,,,,97.5,,,,,,,,134.0,,,,,,,,,,,,,21,1,0,0,341,246,,,,
+100.5,96.0,,142.5,,68.5,28.0,,,,,,,96.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,247,,,,
+90.5,97.0,,141.0,,79.5,31.5,,,,,,,97.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,248,,,,
+87.0,96.0,98.9,143.5,,69.5,31.0,,,,,,,96.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,249,,,,
+83.5,97.5,98.9,140.0,,64.0,26.5,,,,,,,97.5,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,250,,,,
+82.0,99.0,,134.0,,58.0,25.5,,,,,,,99.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,251,,,,
+83.0,99.0,,139.5,,63.5,28.5,,,,,,,99.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,252,,,,
+89.5,100.0,99.1,147.0,,78.0,27.5,,,,,,,100.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,253,,,,
+85.5,100.0,99.1,142.5,,65.5,25.0,,,,,,,100.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,254,,,,
+90.0,97.5,,149.5,,63.0,30.5,,,,,,,97.5,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,255,,,,
+95.0,97.5,100.0,154.0,,77.0,33.5,,,,,,,97.5,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,256,,,,
+83.0,100.0,100.0,141.5,,71.0,31.0,,,,40.0,,,100.0,,,,,,,,126.0,,,,,,,,,,,,,21,1,0,0,341,257,,,,
+92.5,98.5,,146.5,,66.5,28.5,,,,,,,98.5,,,,,,,,126.0,,,,,,,,,,,,,21,1,0,0,341,258,,,,
+88.0,98.5,,141.0,,65.0,26.0,,,,,,,98.5,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,259,,,,
+75.0,100.0,,129.0,,65.0,26.0,,,,,,,100.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,260,,,,
+78.0,100.0,98.9,127.0,,70.0,26.0,,,,40.0,,,100.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,261,,,,
+79.0,100.0,98.9,130.0,,71.0,26.0,,,29.0,40.0,,,100.0,,12.0,,8.9,99.0,0.6,,126.0,,2.1,5.0,4.5,,,30.2,10.3,,15.1,,,21,1,0,0,341,262,,,,
+80.0,99.5,,132.0,,61.0,25.0,,,29.0,,,,99.5,,12.0,,8.9,99.0,0.6,,129.5,,2.1,,,,,30.2,10.3,,15.1,,,21,1,0,0,341,263,,,,
+93.0,98.0,,137.0,,48.0,21.0,,,,,,,98.0,,,,,,,,133.0,,,,,,,,,,,,,21,1,0,0,341,264,,,,
+96.5,97.0,98.2,141.0,,53.0,21.0,,,,,,,97.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,265,,,,
+83.0,96.5,98.2,133.5,,68.5,23.5,,,,,,,96.5,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,266,,,,
+78.5,98.0,,134.5,,73.0,25.0,,,,,,,98.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,267,,,,
+83.5,98.0,,129.5,,66.0,28.0,,,,40.0,,,98.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,268,,,,
+89.0,97.0,98.9,136.5,,75.0,27.0,,,,40.0,,,97.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,269,,,,
+80.5,98.5,98.9,141.5,,78.0,25.5,,,,,,,98.5,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,270,,,,
+75.5,99.0,,132.0,,70.0,22.0,,,,,,,99.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,271,,,,
+74.0,99.5,,142.0,,77.0,20.0,,,,,,,99.5,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,272,,,,
+68.5,100.0,98.7,132.0,,65.5,24.0,,,,,,,100.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,273,,,,
+78.5,99.5,98.7,127.0,,64.0,23.5,,,,,,,99.5,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,274,,,,
+99.0,99.0,,126.0,,67.0,23.0,,,,,,,99.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,275,,,,
+115.5,97.0,,,,,29.0,,,,,,,97.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,276,,,,
+110.5,96.5,,151.0,,73.0,33.0,,,,,,,96.5,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,277,,,,
+100.0,98.0,,149.0,,67.0,33.0,,,,,,,98.0,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,278,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,279,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,280,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,281,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,282,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,283,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,284,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,285,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,286,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,287,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,288,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,289,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,290,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,291,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,292,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,293,,,,
+,,,,,,,,,29.0,,,,,,15.0,,9.1,96.0,0.6,,133.0,,2.1,4.6,5.3,,,35.1,11.5,,14.2,,,21,1,0,0,341,294,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,295,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,296,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,297,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,298,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,299,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,300,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,301,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,302,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,303,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,304,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,305,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,306,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,307,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,308,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,309,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,310,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,311,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,312,,,,
+,,,,,,,,,29.0,,,,,,15.0,,9.1,95.0,0.7,,128.0,,2.1,4.7,4.8,,,33.2,11.0,,13.9,,,21,1,0,0,341,313,,,,
+,,,,,,,,,29.0,,,,,,15.0,,9.1,95.0,0.7,,128.0,,2.1,4.7,4.8,,,33.2,11.0,,13.9,,,21,1,0,0,341,314,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,315,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,316,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,317,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,318,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,319,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,320,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,321,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,322,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,323,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,324,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,325,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,326,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,327,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,328,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,329,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,330,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,331,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,332,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,333,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,334,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,335,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,336,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,337,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,338,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,339,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,340,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,1,0,0,341,341,,,,
