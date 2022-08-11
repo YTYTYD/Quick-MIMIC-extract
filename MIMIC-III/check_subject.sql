@@ -11,5 +11,3 @@ as
 SELECT  distinct [SUBJECT_ID]
   FROM [mimic].[dbo].[DIAGNOSES_ICD] where HADM_ID = @HADM_ID
 
---SELECT  distinct [SUBJECT_ID]
---  FROM [mimic].[dbo].[DIAGNOSES_ICD] where HADM_ID = '165660'
