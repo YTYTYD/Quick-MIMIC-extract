@@ -1,4 +1,4 @@
-alter proc extract1 (
+create proc extract1 (
  @HADM_ID varchar(10)
 ) as
 
@@ -9,7 +9,7 @@ alter proc extract1 (
    drop table #LABEVENTS
  if OBJECT_ID('tempdb.dbo.#CHARTEVENTS') is not null
    drop table #CHARTEVENTS
---保存LABEVENTS、CHARTEVENTS数据到临时表
+--淇濆瓨LABEVENTS銆丆HARTEVENTS鏁版嵁鍒颁复鏃惰〃
 
  SELECT  * into #LABEVENTS
  FROM [mimic].[dbo].LABEVENTS where  [HADM_ID]=@HADM_ID 
@@ -17,7 +17,7 @@ alter proc extract1 (
  SELECT  * into #CHARTEVENTS from [mimic].[dbo].[CHARTEVENTS]  
 where  [HADM_ID]=@HADM_ID 
 
---查询时间区间
+--鏌ヨ鏃堕棿鍖洪棿
 declare @begintime datetime
 declare @endtime datetime
 declare @begintime1 datetime
