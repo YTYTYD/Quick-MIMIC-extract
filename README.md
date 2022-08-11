@@ -14,8 +14,8 @@ The module is divided into 5 components, first constructing the time architectur
 The principle is to collect the information of specified test items for each case in each MIMIC sub-dataset and put them into the table correctly at the corresponding time. Finally the table is generated as a CSV file output for a case.
 
 ## Code
-Our pipeline is available for MIMIC-III and MIMIC-IV.
-XXX.py(python) is the main file used to integrate all the queried data and generate the data into CSV.
+Our pipeline is available for MIMIC-III/MIMIC-IV.
+_multi_extract.py(python file) are the main file used to integrate all the queried data and generate the data into CSV.
 Other .sql files should be stored in the sql database to be called in the main program.
 
 
