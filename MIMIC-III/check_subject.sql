@@ -1,7 +1,3 @@
-
-
-
-
 exec check_subject @HADM_ID='189535'
 
 create proc check_subject (
