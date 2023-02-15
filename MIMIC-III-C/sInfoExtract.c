@@ -29,7 +29,7 @@ void PATIENTS_read(FILE *index_file, int SUBJECT_ID, FILE *csv_file, int *gender
     // 读取性别信息
     buff_index_move(buffer, &index, 2);
     index += 1;
-    if (fgetc(csv_file) == 'F')
+    if (buffer[index] == 'F')
         *gender = 1;
     else
         *gender = 0;
