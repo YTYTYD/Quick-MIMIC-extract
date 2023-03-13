@@ -4,7 +4,7 @@ struct DRUG
     long long STARTDATE; // 用药开始时间 2175-06-11 00:00:00
     long long ENDDATE;   // 用药结束时间 2175-06-12 00:00:00
     char *PROD_STRENGTH; // 用药强度, 例如:1mg Capsule
-    long long GSN;             // 通用序列号
+    int GSN;             // 通用序列号
     long long NDC;       // 国家药品编码
     int DIFF;            // 开始与结束时间之间的差值(单位:小时)
 };
@@ -20,7 +20,7 @@ struct NOTE
 struct StaticInformation
 {
     int Age;
-    int Gender;
+    int Gender; //性别, 男为1, 女为0
     int Util1;
     int Util2;
     long long HospAdmiTime;

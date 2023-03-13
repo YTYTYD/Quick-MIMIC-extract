@@ -40,6 +40,19 @@ int init()
         r = -1;
     }
     //依次检查每个文件是否存在
+#ifdef MIMICIV
+    if (!path_merge(DIAGNOSES_ICD, data_path, "diagnoses_icd.csv")
+    || !path_merge(PRESCRIPTION, data_path, "prescriptions.csv")
+    || !path_merge(PATIENTS, data_path, "patients.csv")
+    || !path_merge(ADMISSIONS, data_path, "admissions.csv")
+    || !path_merge(LABEVENTS, data_path, "labevents.csv")
+    || !path_merge(CHARTEVENTS, data_path, "chartevents.csv")
+    || !path_merge(ICUSTAYS, data_path, "icustays.csv")
+    || !path_merge(PRESCRIPTION_INDEX, index_path, "PRESCRIPTIONS_INDEX")
+    || !path_merge(LABEVENTS_INDEX, index_path, "LABEVENTS_INDEX")
+    || !path_merge(CHARTEVENTS_INDEX, index_path, "CHARTEVENTS_INDEX"))
+        r = -1;
+#elif defined(MIMICIII)
     if (!path_merge(DIAGNOSES_ICD, data_path, "DIAGNOSES_ICD.csv")
     || !path_merge(PRESCRIPTION, data_path, "PRESCRIPTIONS.csv")
     || !path_merge(NOTEEVENT, data_path, "NOTEEVENTS.csv")
@@ -50,11 +63,9 @@ int init()
     || !path_merge(CHARTEVENTS, data_path, "CHARTEVENTS.csv")
     || !path_merge(PRESCRIPTION_INDEX, index_path, "PRESCRIPTIONS_INDEX")
     || !path_merge(NOTEEVENT_INDEX, index_path, "NOTEEVENT_INDEX")
-    || !path_merge(ADMISSIONS_INDEX, index_path, "ADMISSIONS_INDEX")
     || !path_merge(LABEVENTS_INDEX, index_path, "LABEVENTS_INDEX")
-    || !path_merge(PATIENTS_INDEX, index_path, "PATIENTS_INDEX")
-    || !path_merge(TRANSFERS_INDEX, index_path, "TRANSFERS_INDEX")
     || !path_merge(CHARTEVENTS_INDEX, index_path, "CHARTEVENTS_INDEX"))
         r = -1;
+#endif
     return r;
 }

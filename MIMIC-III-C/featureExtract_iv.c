@@ -1,11 +1,11 @@
-void LABEVENTS_read(FILE *index_file, int HADM_ID, FILE *csv_file, struct Feature **result, int *r_size)
+void LABEVENTS_read(int HADM_ID, FILE *csv_file, struct Feature **result, int *r_size)
 {
-    const int MAX_SIZE = 20000;
+    const int MAX_SIZE = 10000;
 
     // 偏移量获取
-    unsigned int *offset = (unsigned int *)malloc(MAX_SIZE * sizeof(unsigned int));
+    long long *offset = (long long *)malloc(MAX_SIZE * sizeof(long long));
     unsigned int offset_size = 0;
-    offset_size = get_all_offset(HADM_ID, index_file, offset, 22245034);
+    offset_size = get_all_offset_m_64(HADM_ID, LABEVENT_M_INDEX, offset, LABEVENTS_LEN);
     *r_size = offset_size;
 
     *result = (struct Feature *)malloc(offset_size * sizeof(struct Feature));
@@ -20,7 +20,7 @@ void LABEVENTS_read(FILE *index_file, int HADM_ID, FILE *csv_file, struct Featur
     {
         // 读取一段
         unsigned int index = 0;
-        fseek(csv_file, offset[i], SEEK_SET);
+        fseeko64(csv_file, offset[i], SEEK_SET);
         fgets(buffer, 1024, csv_file);
 
         // 依次读取每一个字段
@@ -28,13 +28,15 @@ void LABEVENTS_read(FILE *index_file, int HADM_ID, FILE *csv_file, struct Featur
         str_cpy(buffer, c_temp, &index, ',');
         SUBJECT_ID = my_atoi(c_temp);
         index += 1;
-        buff_index_move(buffer, &index, 1);
+        buff_index_move(buffer, &index, 2);
         str_cpy(buffer, c_temp, &index, ',');
         (*result)[i].ITEMID = my_atoi(c_temp);
         index += 1;
         str_cpy(buffer, c_temp, &index, ',');
         (*result)[i].time = str_2_time_stamp(c_temp);
         index += 1;
+
+        buff_index_move(buffer, &index, 1);
 
         str_cpy_2(buffer, c_temp, &index, ',', '\"');
         (*result)[i].value = my_atof(c_temp);
@@ -49,7 +51,7 @@ void CHARTEVENTS_read(FILE *index_file, int HADM_ID, int SUBJECT_ID, FILE *csv_f
 
     // 获取所用偏移量
     long long *offset = (long long *)malloc(MAX_SIZE * sizeof(long long));
-    unsigned int offset_size = get_all_offset_64(HADM_ID, index_file, offset, 330712483);
+    unsigned int offset_size = get_all_offset_64(HADM_ID, index_file, offset, 329499788);
 
     *r_size = offset_size;
     *result = (struct Feature *)malloc(offset_size * sizeof(struct Feature));
@@ -66,7 +68,7 @@ void CHARTEVENTS_read(FILE *index_file, int HADM_ID, int SUBJECT_ID, FILE *csv_f
         fgets(buffer, 1024, csv_file);
 
         unsigned int index = 0;
-        buff_index_move(buffer, &index, 1);
+        // buff_index_move(buffer, &index, 1);
         str_cpy(buffer, read_buffer, &index, ',');
         c_subject_id = my_atoi(read_buffer);
         if (c_subject_id != SUBJECT_ID)
@@ -76,14 +78,14 @@ void CHARTEVENTS_read(FILE *index_file, int HADM_ID, int SUBJECT_ID, FILE *csv_f
         buff_index_move(buffer, &index, 2);
 
         str_cpy(buffer, read_buffer, &index, ',');
-        (*result)[i].ITEMID = my_atoi(read_buffer);
-        index += 1;
-
-        str_cpy(buffer, read_buffer, &index, ',');
         (*result)[i].time = str_2_time_stamp(read_buffer);
         index += 1;
 
-        buff_index_move(buffer, &index, 2);
+        buff_index_move(buffer, &index, 1);
+
+        str_cpy(buffer, read_buffer, &index, ',');
+        (*result)[i].ITEMID = my_atoi(read_buffer);
+        index += 1;
 
         str_cpy_2(buffer, read_buffer, &index, ',', '\"');
         (*result)[i].value = my_atof(read_buffer);
@@ -102,6 +104,7 @@ void filter_by_itemid(struct Feature *dst, int *index, struct Feature *src, int 
         if (sInfor->endtime < src[i].time || sInfor->endtime == 0)
             sInfor->endtime = src[i].time;
         // 过滤
+        // TODO:可以将feature排序再筛选
         for (j = 0; j < feature_size; j++)
             if (is_in_array(src[i].ITEMID, features[j].ITEMID))
             {
@@ -125,14 +128,14 @@ int feature_cmp(const void *a, const void *b)
 
 void feature_extract(int HADMID, int SUBJECT_ID, int *r_size, struct Feature **result, struct Feature_ID *features, int feature_size, struct StaticInformation *sInfor)
 {
-    FILE *LABEVENTS_index = fopen(LABEVENTS_INDEX, "rb");
+    // FILE *LABEVENTS_index = fopen(LABEVENTS_INDEX, "rb");
     FILE *CHARTEVENTS_index = fopen(CHARTEVENTS_INDEX, "rb");
     FILE *LABEVENTS_csv = fopen(LABEVENTS, "r");
     FILE *CHARTEVENTS_csv = fopen(CHARTEVENTS, "r");
 
     struct Feature *labevents;
     int labevents_size = 0;
-    LABEVENTS_read(LABEVENTS_index, HADMID, LABEVENTS_csv, &labevents, &labevents_size);
+    LABEVENTS_read(HADMID, LABEVENTS_csv, &labevents, &labevents_size);
 
     struct Feature *chartevents;
     int chartevents_size = 0;
@@ -151,7 +154,7 @@ void feature_extract(int HADMID, int SUBJECT_ID, int *r_size, struct Feature **r
     free(chartevents);
     free(labevents);
 
-    fclose(LABEVENTS_index);
+    // fclose(LABEVENTS_index);
     fclose(CHARTEVENTS_index);
     fclose(LABEVENTS_csv);
     fclose(CHARTEVENTS_csv);

@@ -162,6 +162,7 @@ unsigned int get_all_offset(int hid, FILE *index_file, unsigned int *result, uns
     index = current + 1;
     while (index < max)
     { // 向后查找
+        // XXX:代码重复, 有待改进
         fseek(index_file, index * 8, SEEK_SET);
         fread(buffer, 8, 1, index_file);
         chid = (buffer[0] & 0xff) + ((buffer[1] & 0xff) << 8) + ((buffer[2] & 0xff) << 16) + ((buffer[3] & 0xff) << 24);
@@ -185,7 +186,7 @@ unsigned int get_all_offset_64(int hid, FILE *index_file, long long *result, uns
     unsigned int chid = 0;                 // 当前读取到的hid
     while (1)
     {
-        fseek(index_file, (current * 9), SEEK_SET);
+        fseeko64(index_file, (current * 9), SEEK_SET);
         /*读取9字节数据*/
         fread(buffer, 9, 1, index_file);
         chid = (buffer[0] & 0xff) + ((buffer[1] & 0xff) << 8) + ((buffer[2] & 0xff) << 16) + ((buffer[3] & 0xff) << 24);
@@ -209,7 +210,7 @@ unsigned int get_all_offset_64(int hid, FILE *index_file, long long *result, uns
     long long index = current;
     while (index >= 0)
     { // 向前查找
-        fseek(index_file, index * 9, SEEK_SET);
+        fseeko64(index_file, index * 9, SEEK_SET);
         /*读取9字节数据*/
         fread(buffer, 9, 1, index_file);
         chid = (buffer[0] & 0xff) + ((buffer[1] & 0xff) << 8) + ((buffer[2] & 0xff) << 16) + ((buffer[3] & 0xff) << 24);
@@ -232,7 +233,8 @@ unsigned int get_all_offset_64(int hid, FILE *index_file, long long *result, uns
     index = current + 1;
     while (index < max)
     { // 向后查找
-        fseek(index_file, index * 9, SEEK_SET);
+        // XXX:代码重复, 有待改进
+        fseeko64(index_file, index * 9, SEEK_SET);
         fread(buffer, 9, 1, index_file);
         chid = (buffer[0] & 0xff) + ((buffer[1] & 0xff) << 8) + ((buffer[2] & 0xff) << 16) + ((buffer[3] & 0xff) << 24);
         offset = (long long)(buffer[4] & 0xff) + ((long long)(buffer[5] & 0xff) << 8) + ((long long)(buffer[6] & 0xff) << 16) + ((long long)(buffer[7] & 0xff) << 24) + ((long long)(buffer[8] & 0xff) << 32);

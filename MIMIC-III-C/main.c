@@ -13,11 +13,36 @@
 
 #include "utils.c"
 #include "init.c"
-#include "idExtract.c"
-#include "sInfoExtract.c"
+#include "indexReadUtil.c"
+#include "indexRead.c"
+
+// 预先读取到内存中的表
+struct ADMISSIONS_DATA *ADMISSIONS_TABLE;
+struct PATIENTS_DATA *PATIENTS_TABLE;
+#ifdef MIMICIV
+struct ICUSTAY_DATA *ICUSTAY_TABLE;
+#elif defined(MIMICIII)
+struct TRANSFER_DATA *TRANSFERS_TABLE;
+#endif
+
+#ifdef MIMICIV
+#include "icustaysExtractPRead.c"
+#include "featureExtract_iv.c"
+#include "admissionsPRead_iv.c"
+#include "patientsPRead_iv.c"
+#include "idExtract_iv.c"
+#include "sInfoExtract_iv.c"
+#include "drugExtract_iv.c"
+#elif defined(MIMICIII)
+#include "transfersPRead.c"
+#include "featureExtract_iii.c"
+#include "admissionsPRead_iii.c"
+#include "patientsPRead_iii.c"
+#include "idExtract_iii.c"
+#include "sInfoExtract_iii.c"
+#include "drugExtract_iii.c"
 #include "noteExtract.c"
-#include "drugExtract.c"
-#include "featureExtract.c"
+#endif
 
 struct Feature_ID *feature_ids;
 int feature_ids_size = 0;
@@ -60,27 +85,29 @@ void feature_read()
 /**
  * 根据两个ID进行提取
  */
-void extract(int HID, int SUBJECT_ID)
+void extract(int HADM_ID, int SUBJECT_ID)
 {
     // 病人基本信息
     struct StaticInformation sInfor;
     sInfor.begintime = 0;
     sInfor.endtime = 0;
-    sInfo_extract(&sInfor, HID, SUBJECT_ID);
+    sInfo_extract(&sInfor, HADM_ID, SUBJECT_ID);
+#ifdef MIMICIII
     // 医嘱信息
     struct NOTE *notes;
     int notes_size = 0;
-    note_extract(HID, &notes, &notes_size);
+    note_extract(HADM_ID, &notes, &notes_size);
+#endif
     // 药物信息
     struct DRUG *drugs;
     int drugs_size = 0;
-    drug_extract(HID, &drugs, &drugs_size);
+    drug_extract(HADM_ID, &drugs, &drugs_size, &sInfor);
     // 化验信息
     struct Feature *features;
     int features_size = 0;
-    feature_extract(HID, SUBJECT_ID, &features_size, &features, feature_ids, feature_ids_size, &sInfor);
+    feature_extract(HADM_ID, SUBJECT_ID, &features_size, &features, feature_ids, feature_ids_size, &sInfor);
 
-    // 计算住院时长
+    // 计算时长
     if (sInfor.begintime > sInfor.HospAdmiTime)
         sInfor.begintime = sInfor.HospAdmiTime;
     sInfor.HospAdmiTime = sInfor.endtime / 3600 - sInfor.begintime / 3600;
@@ -88,7 +115,7 @@ void extract(int HID, int SUBJECT_ID)
     // 输出到csv文件
     char output_path[512];
     strcpy(output_path, OUTPUT_DIR);
-    my_itoa(HID, output_path + strlen(output_path));
+    my_itoa(HADM_ID, output_path + strlen(output_path));
     strcpy(output_path + strlen(output_path), ".csv");
     FILE *outputcsv_file = fopen(output_path, "w");
 
@@ -96,7 +123,12 @@ void extract(int HID, int SUBJECT_ID)
     // 输出表头
     for (i = 0; i < feature_ids_size; i++)
         fprintf(outputcsv_file, "%s,", feature_ids[i].name);
+#ifdef MIMICIII
     fprintf(outputcsv_file, "Age,Gender,Unit1,Unit2,HospAdmTime,ICULOS,Strategy,GSN,NDC,TEXT\n");
+#elif defined(MIMICIV)
+    fprintf(outputcsv_file, "Age,Gender,Unit1,Unit2,HospAdmTime,ICULOS,Strategy,GSN,NDC\n");
+#endif
+
     // 从开始时间到结束时间遍历
     int drug_index = 0, note_index = 0, feature_index = 0;
     for (i = 0; i < sInfor.HospAdmiTime; i++)
@@ -135,13 +167,14 @@ void extract(int HID, int SUBJECT_ID)
                     strcpy(NDC + strlen(NDC), ", ");
                 }
                 strcpy(Strategy + strlen(Strategy), drugs[drug_index].PROD_STRENGTH);
-                sprintf(trans_buff, "%lld", drugs[drug_index].GSN);
+                my_itoa(drugs[drug_index].GSN, trans_buff);
                 strcpy(GSN + strlen(GSN), trans_buff);
                 sprintf(trans_buff, "%lld", drugs[drug_index].NDC);
                 strcpy(NDC + strlen(NDC), trans_buff);
             }
         }
-        fprintf(outputcsv_file, "\"%s\",\"%s\",\"%s\",", Strategy, GSN, NDC);
+        fprintf(outputcsv_file, "\"%s\",\"%s\",\"%s\"", Strategy, GSN, NDC);
+#ifdef MIMICIII
         // 输出医嘱信息
         if (notes[note_index].DATE / 3600 == ctime)
         {
@@ -149,6 +182,7 @@ void extract(int HID, int SUBJECT_ID)
             if (note_index < notes_size)
                 note_index++;
         }
+#endif
 
         fprintf(outputcsv_file, "\n");
     }
@@ -156,9 +190,14 @@ void extract(int HID, int SUBJECT_ID)
     fclose(outputcsv_file);
 
     // 释放
+
+#ifdef MIMICIII
     for (i = 0; i < notes_size; i++)
         free(notes[i].TEXT);
     free(notes);
+#endif
+
+    // 释放用药强度字符串内存
     for (i = 0; i < drugs_size; i++)
         free(drugs[i].PROD_STRENGTH);
     free(drugs);
@@ -172,10 +211,22 @@ int main()
     // 读取需要提取的特征ID
     feature_read();
 
+    // 读取部分表到内存中
+    ADMISSIONS_table_read();
+    PATIENTS_table_read();
+#ifdef MIMICIV
+    ICUSTAY_table_read();
+#elif defined(MIMICIII)
+    TRANSFER_table_read();
+#endif
+    // 读取索引文件到内存中
+    index_read();
+
     struct H_ID_node *HADM_IDs;
     int HADM_IDs_size = 0;
     id_extract(&HADM_IDs, &HADM_IDs_size);
 
+    
     int i = 0;
     for (i = 0; i < HADM_IDs_size; i++)
     {
@@ -191,5 +242,15 @@ int main()
 
     free(feature_ids);
     free(HADM_IDs);
+    // 释放预读到内存中的表
+    free(ADMISSIONS_TABLE);
+    free(PATIENTS_TABLE);
+    free(PRESCRIPTION_M_INDEX);
+    free(LABEVENT_M_INDEX);
+#ifdef MIMICIV
+    free(ICUSTAY_TABLE);
+#elif defined(MIMICIII)
+    free(NOTEEVENT_M_INDEX);
+#endif
     return 0;
 }

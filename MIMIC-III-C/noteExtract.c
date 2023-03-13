@@ -3,12 +3,12 @@
  */
 void read_text(FILE *NOTEEVENT, unsigned int offset, struct NOTE *result)
 {
-    char *DATE = (char *)malloc(64);           // 日期
+    char *DATE = (char *)malloc(64);            // 日期
     result->TEXT = (char *)malloc(1024 * 1024); // 医嘱文本, 有些巨长...
     const int BUFFER_SIZE = 1024;
     char *buffer = (char *)malloc(BUFFER_SIZE * sizeof(char)); // 单行读取缓存
 
-    fseeko64(NOTEEVENT, offset, SEEK_SET);  //??? 用64干嘛???
+    fseeko64(NOTEEVENT, offset, SEEK_SET); //??? 用64干嘛???
 
     fgets(buffer, BUFFER_SIZE, NOTEEVENT);
 
@@ -50,13 +50,12 @@ int note_cmp(const void *a, const void *b)
 void note_extract(int HADM_ID, struct NOTE **results, int *r_size)
 {
     FILE *fptr = fopen(NOTEEVENT, "r");
-    FILE *index_file = fopen(NOTEEVENT_INDEX, "rb");
 
-    const int ROWSMAXSIZE = 1024; // 设定的最大行数
+    const int ROWSMAXSIZE = 2048; // 设定的最大行数
     unsigned int row_offset[ROWSMAXSIZE];
     unsigned int result_size = 0;
     // 读取所有索引
-    result_size = get_all_offset(HADM_ID, index_file, row_offset, 1851344);
+    result_size = get_all_offset_m(HADM_ID, NOTEEVENT_M_INDEX, row_offset, 1851344);
     *results = (struct NOTE *)malloc(result_size * sizeof(struct NOTE));
     memset(*results, 0, sizeof(struct NOTE) * result_size);
 
@@ -87,6 +86,7 @@ void note_extract(int HADM_ID, struct NOTE **results, int *r_size)
                 (*results)[index_1].DATE = (*results)[index_2].DATE;
                 strcpy((*results)[index_1].TEXT, (*results)[index_2].TEXT);
                 copy_flag = 0;
+                index_2 -= 1;
             }
         }
     }
@@ -94,10 +94,8 @@ void note_extract(int HADM_ID, struct NOTE **results, int *r_size)
         *r_size = 0;
     else
         *r_size = index_1 + 1;
-
     // 释放
     fclose(fptr);
-    fclose(index_file);
     for (i = index_1 + 1; i < result_size; i++)
         free((*results)[i].TEXT);
 }
