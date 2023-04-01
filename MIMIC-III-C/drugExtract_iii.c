@@ -81,8 +81,9 @@ void drug_extract(int HADMID, struct DRUG **drug_rows, int *r_size, struct Stati
         fseek(fptr, row_offset[i], SEEK_SET);
         fgets(buff, MAX_BUFF_SIZE, fptr);
         drug_row_info_extract(buff, &(*drug_rows)[i]);
-        //存在无时间的数据, 需要跳过
-        if((*drug_rows)[i].STARTDATE==-1||(*drug_rows)[i].ENDDATE==-1) continue;
+        // 存在无时间的数据, 需要跳过
+        if ((*drug_rows)[i].STARTDATE < 0 || (*drug_rows)[i].ENDDATE < 0)
+            continue;
         (*r_size)++;
         if ((*drug_rows)[i].STARTDATE < sInfo->begintime || sInfo->begintime == 0)
             sInfo->begintime = (*drug_rows)[i].STARTDATE;
