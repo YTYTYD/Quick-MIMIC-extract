@@ -24,7 +24,7 @@ void id_extract(struct H_ID_node **result, int *r_size)
 {
     FILE *fp = NULL;
     char buff[255]; // 文件读取buff
-    const int MAXSIZE = 651048;
+    const int MAXSIZE = 5280352;
     // 分配内存, 初始化
     *result = (struct H_ID_node *)malloc(sizeof(struct H_ID_node) * MAXSIZE);
     struct H_ID_node *HADMID = *result;
