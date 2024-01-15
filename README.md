@@ -1,3 +1,10 @@
+# This paper
+Quick-MIMIC: A Multimodal Data Extraction Pipeline for MIMIC with Parallelization
+Yutao Dou, Wei Li, Albert Y. Zomaya, and Shaoliang Peng
+accepted by: The 21st Asia Pacific Bioinformatics Conference
+At: Changsha
+January 2023
+
 # Quick-MIMIC-extract
 We aims to develop a reliable and easy-to-use extraction pipeline to standardize data extraction from MIMIC datasets. Our method can fully integrate different data structures, including structured, semi-structured, and unstructured data, into a time-series table. 
 The format of the table is a queue with hourly granularity, one feature per column, and the format can be referred to Sepsis fromClinical Data – the PhysioNet Computing in Cardiology Challenge 2019.
