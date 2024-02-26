@@ -1,0 +1,10 @@
+#pragma once
+
+// 预先读取到内存中的表
+extern struct ADMISSIONS_DATA *ADMISSIONS_TABLE;
+extern struct PATIENTS_DATA *PATIENTS_TABLE;
+extern struct EVENTS_DATA_TABLE *FEATURES_TABLE;
+extern struct DRUG_DATA_TABLE *PRESCRIPTION_TABLE;
+extern struct ICUSTAY_DATA *ICUSTAY_TABLE;
+extern struct TRANSFER_DATA *TRANSFERS_TABLE;
+extern struct NOTE_DATA *NOTEEVENT_TABLE;

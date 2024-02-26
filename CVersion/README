@@ -1,0 +1,35 @@
+# HOW TO RUN
+
+This program consists of two parts. One part is an extraction program written in C located in the `/src` folder, used for extracting data; the other part is an extraction script written by the user in Python, used to send extraction tasks to the previous extraction program.
+
+
+
+## Compile the extraction program：
+
+1. Make sure that openmpi is installed on your device. We are using openmpi version 4.1.4.
+
+2. Open `defines.h`, located in the `extracter` folder of the program source code. Depending on the version of the MIMIC dataset you need to extract, add macro definitions: `#define MIMICIV` or `#define MIMICIII`.
+
+3. Open the file `/src/const.c` and modify the directory configurations as shown in the following example:
+
+   ```c
+   char *OUTPUT_DIR = "/abc/test/";  //log output path
+   #ifdef MIMICIII
+   char *data_path = "/abc/mimiciii/";	//Directory containing the raw CSV files of the MIMIC-III dataset.
+   #elif defined MIMICIV
+   char *data_path = "/abc/mimiciv/";	//Directory containing the raw CSV files of the MIMIC-IV dataset.
+   #endif
+   ```
+
+4. Compile by entering the `make` command, and you will obtain an executable file named `extracter`.
+
+After the extraction program is started, it listens for requests on port 9812 by default. You can modify this in the `network_init` function of the `taskrecv.c` file (around line 19). In general, you do not need to modify this unless the port is already in use.
+
+
+
+## python extract script：
+
+1. Copy the `extsdk` folder to the directory where your Python code is located. The `extsdk` folder should be inside the `pythonsdk` directory.
+2. Run the previously compiled `extracter` executable file.
+
+3. Write code to perform the extraction process. Refer to the `demo.py` file for specific code examples.
