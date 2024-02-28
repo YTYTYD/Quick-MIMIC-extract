@@ -1,6 +1,6 @@
 # Quick-MIMIC: A Multimodal Data Extraction Pipeline for MIMIC with Parallelization
 Quick-MIMIC: A Multimodal Data Extraction Pipeline for MIMIC with Parallelization   
-Yutao Dou^12, Wei Li^2, Albert Y. Zomaya^2, and Shaoliang Peng^1 
+Yutao Dou^12, Wei Li^2, Albert Y. Zomaya^2, and Shaoliang Peng^1   
 accepted by: The 21st Asia Pacific Bioinformatics Conference  
 At: Changsha, January 2023  
 
