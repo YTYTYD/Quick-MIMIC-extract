@@ -1,6 +1,6 @@
 # Quick-MIMIC: A Multimodal Data Extraction Pipeline for MIMIC with Parallelization
 Quick-MIMIC: A Multimodal Data Extraction Pipeline for MIMIC with Parallelization   
-Yutao Dou, Wei Li, Albert Y. Zomaya, and Shaoliang Peng  
+Yutao Dou^12, Wei Li, Albert Y. Zomaya, and Shaoliang Peng  
 accepted by: The 21st Asia Pacific Bioinformatics Conference  
 At: Changsha, January 2023  
 
@@ -14,7 +14,7 @@ Our pipeline contains three main query modules, the hospitalization query module
 The hospitalization query module and the patient query module, which are responsible for matching patient and hospitalization information in the database, ensure that patients and cases can be data pairs to generate the Subject-ID:HADM-ID structure.
 Once identified, various types of information about the patient are progressively extracted and stored through the information query module.
 
-### Information Query Module
+### Data Integration Module
 The targets identified according to the above steps are fed into the module to query their various related information.
 The module is divided into 5 components, first constructing the time architecture component and then using 4 separate extraction components to extract static features, time series features, drug information and medical notes, respectively, and rearrange them according to the time architecture.
 The principle is to collect the information of specified test items for each case in each MIMIC sub-dataset and put them into the table correctly at the corresponding time. Finally the table is generated as a CSV file output for a case.
