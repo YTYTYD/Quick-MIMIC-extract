@@ -139,15 +139,6 @@ int main()
     fflush(log_file);
     // 向日志文件输出内存占用
 #endif
-
-#ifdef SREADTEST
-    // 单个病例读取测试
-    extract(HADM_IDs[0].HADM_ID, HADM_IDs[0].SUBJECT_ID);
-    fprintf(log_file, "mem: %dKB\n", get_current_mem());
-    fclose(log_file);
-    MPI_Finalize();
-    return 0;
-#endif
     MPI_Request *mpi_request;
     mpi_request = (MPI_Request *)malloc(sizeof(MPI_Request) * MPI_size);
     if (MPI_rank == 0)
@@ -238,13 +229,14 @@ int main()
     {
         int recv_signal = -2;
         MPI_Recv(&recv_signal, 1, MPI_INT, 0, 0, MPI_COMM_WORLD, MPI_STATUS_IGNORE);
+
         while (recv_signal == continue_signal)
         {
             struct task new_task;
-            task_recv(&new_task);      
+            task_recv(&new_task);
 #ifdef TEST1
-        // 计时
-        gettimeofday(&begintime, NULL);
+            // 计时
+            gettimeofday(&begintime, NULL);
 #endif
             char **ext_results = (char **)malloc(HADM_IDs_size * sizeof(char *));
             memset(ext_results, 0, HADM_IDs_size * sizeof(char *));
@@ -255,7 +247,7 @@ int main()
 
             for (i = 0; i < HADM_IDs_size; i++)
             {
-                if (new_task.ICD_list_size == 0 || is_in_array(HADM_IDs[i].ICD_CODE, new_task.ICD_list) != 0)
+                if (new_task.ICD_list_size == 0 || is_ICD_in_list(HADM_IDs[i], new_task.ICD_list, new_task.ICD_list_size) != 0)
                 {
                     extract(HADM_IDs[i].HADM_ID, HADM_IDs[i].SUBJECT_ID, new_task, &ext_results[result_size]);
                     ext_ids[result_size] = HADM_IDs[i].HADM_ID;

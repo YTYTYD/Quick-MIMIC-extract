@@ -1,5 +1,7 @@
 #include "idExtract.h"
 
+const int MAX_ICD_CODE_NUM = 100;
+
 int binary_search(const char *arr[], int low, int high, char *target)
 {
     while (low <= high)
@@ -79,18 +81,23 @@ int id_cmp(const void *a, const void *b)
     return n_a->HADM_ID - n_b->HADM_ID;
 }
 
+void init_ID_node(struct ID_node *node, int SID, int HID, int ICD_CODE)
+{
+    node->SUBJECT_ID = SID;
+    node->HADM_ID = HID;
+    node->ICD_CODE = (int *)malloc(MAX_ICD_CODE_NUM * sizeof(int));
+    node->ICD_CODE[0] = ICD_CODE;
+    node->ICD_CODE_NUM = 1;
+}
+
 void id_extract(struct ID_node **result, int *r_size, int MPI_rank, int MPI_size)
 {
-    // 不考虑ID数量极少的情况
-
     // 若ID为0, 则提取数据, 打乱, 分发给其它进程
     if (MPI_rank == 0)
     {
         struct H_ID_node
         {
-            int HADM_ID;
-            int SUBJECT_ID;
-            int ICD_CODE;
+            struct ID_node data;
             struct H_ID_node *left;
             struct H_ID_node *right;
         };
@@ -116,9 +123,7 @@ void id_extract(struct ID_node **result, int *r_size, int MPI_rank, int MPI_size
             // 向树中插入HID
             if (HADMID_size == 0)
             {
-                HADMID[0].SUBJECT_ID = SID;
-                HADMID[0].HADM_ID = HID;
-                HADMID[0].ICD_CODE = ICD_CODE;
+                init_ID_node(&HADMID[0].data, SID, HID, ICD_CODE);
                 HADMID_size++;
             }
             else
@@ -127,38 +132,38 @@ void id_extract(struct ID_node **result, int *r_size, int MPI_rank, int MPI_size
                 // 找到树中对应的叶子节点并插入
                 while (1)
                 {
-                    if (H_ID_ptr->HADM_ID > HID)
+                    if (H_ID_ptr->data.HADM_ID > HID)
                     {
                         if (H_ID_ptr->left)
                             H_ID_ptr = H_ID_ptr->left;
                         else
                         {
                             H_ID_ptr->left = &HADMID[HADMID_size];
-                            HADMID[HADMID_size].HADM_ID = HID;
-                            HADMID[HADMID_size].SUBJECT_ID = SID;
-                            HADMID[HADMID_size].ICD_CODE = ICD_CODE;
+                            init_ID_node(&HADMID[HADMID_size].data, SID, HID, ICD_CODE);
                             HADMID_size++;
                             H_ID_ptr = H_ID_ptr->left;
                             break;
                         }
                     }
-                    else if (H_ID_ptr->HADM_ID < HID)
+                    else if (H_ID_ptr->data.HADM_ID < HID)
                     {
                         if (H_ID_ptr->right)
                             H_ID_ptr = H_ID_ptr->right;
                         else
                         {
                             H_ID_ptr->right = &HADMID[HADMID_size];
-                            HADMID[HADMID_size].HADM_ID = HID;
-                            HADMID[HADMID_size].SUBJECT_ID = SID;
-                            HADMID[HADMID_size].ICD_CODE = ICD_CODE;
+                            init_ID_node(&HADMID[HADMID_size].data, SID, HID, ICD_CODE);
                             HADMID_size++;
                             H_ID_ptr = H_ID_ptr->right;
                             break;
                         }
                     }
-                    else // 相等, 已存在, 退出
+                    else
+                    { // 相等, 已存在
+                        H_ID_ptr->data.ICD_CODE[H_ID_ptr->data.ICD_CODE_NUM] = ICD_CODE;
+                        H_ID_ptr->data.ICD_CODE_NUM++;
                         break;
+                    }
                 }
             }
         }
@@ -175,15 +180,9 @@ void id_extract(struct ID_node **result, int *r_size, int MPI_rank, int MPI_size
         {
             int target_index = rand() % HADMID_size;
             // 交换
-            temp.HADM_ID = HADMID[i].HADM_ID;
-            temp.SUBJECT_ID = HADMID[i].SUBJECT_ID;
-            temp.ICD_CODE = HADMID[i].ICD_CODE;
-            HADMID[i].HADM_ID = HADMID[target_index].HADM_ID;
-            HADMID[i].SUBJECT_ID = HADMID[target_index].SUBJECT_ID;
-            HADMID[i].ICD_CODE = HADMID[target_index].ICD_CODE;
-            HADMID[target_index].HADM_ID = temp.HADM_ID;
-            HADMID[target_index].SUBJECT_ID = temp.SUBJECT_ID;
-            HADMID[target_index].ICD_CODE = temp.ICD_CODE;
+            temp.data = HADMID[i].data;
+            HADMID[i].data = HADMID[target_index].data;
+            HADMID[target_index].data = temp.data;
         }
         // 发送
         int size_per_process = HADMID_size / (MPI_size - 1);
@@ -202,22 +201,26 @@ void id_extract(struct ID_node **result, int *r_size, int MPI_rank, int MPI_size
             int *id_buff = (int *)malloc(true_size * sizeof(int));
             for (j = 0; j < true_size; j++)
             {
-                id_buff[j] = HADMID[start_index + j].HADM_ID;
+                id_buff[j] = HADMID[start_index + j].data.HADM_ID;
             }
             MPI_Send(id_buff, true_size, MPI_INT, i, 0, MPI_COMM_WORLD);
             // 发送SID
             for (j = 0; j < true_size; j++)
             {
-                id_buff[j] = HADMID[start_index + j].SUBJECT_ID;
+                id_buff[j] = HADMID[start_index + j].data.SUBJECT_ID;
             }
             MPI_Send(id_buff, true_size, MPI_INT, i, 0, MPI_COMM_WORLD);
             // 发送ICD_CODE
             for (j = 0; j < true_size; j++)
             {
-                id_buff[j] = HADMID[start_index + j].ICD_CODE;
+                MPI_Send(&HADMID[start_index + j].data.ICD_CODE_NUM, 1, MPI_INT, i, 0, MPI_COMM_WORLD);
+                MPI_Send(HADMID[start_index + j].data.ICD_CODE, HADMID[start_index + j].data.ICD_CODE_NUM, MPI_INT, i, 0, MPI_COMM_WORLD);
             }
-            MPI_Send(id_buff, true_size, MPI_INT, i, 0, MPI_COMM_WORLD);
             free(id_buff);
+        }
+        for (i = 0; i < HADMID_size; i++)
+        {
+            free(HADMID[i].data.ICD_CODE);
         }
         free(HADMID);
     }
@@ -238,12 +241,39 @@ void id_extract(struct ID_node **result, int *r_size, int MPI_rank, int MPI_size
         for (j = 0; j < *r_size; j++)
             (*result)[j].SUBJECT_ID = IDs[j];
         // 接受ICD_CODE
-        MPI_Recv(IDs, *r_size, MPI_INT, 0, 0, MPI_COMM_WORLD, MPI_STATUS_IGNORE);
         for (j = 0; j < *r_size; j++)
-            (*result)[j].ICD_CODE = IDs[j];
+        {
+            MPI_Recv(&(*result)[j].ICD_CODE_NUM, 1, MPI_INT, 0, 0, MPI_COMM_WORLD, MPI_STATUS_IGNORE);
+            (*result)[j].ICD_CODE = (int *)malloc((*result)[j].ICD_CODE_NUM * sizeof(int));
+            MPI_Recv((*result)[j].ICD_CODE, (*result)[j].ICD_CODE_NUM, MPI_INT, 0, 0, MPI_COMM_WORLD, MPI_STATUS_IGNORE);
+        }
         free(IDs);
     }
 
     // 按HADM_ID排序, 方便后续查找
     qsort(*result, *r_size, sizeof(struct ID_node), id_cmp);
+}
+
+int icd_search(int *list, int start, int end, int icd_code)
+{
+    int mid;
+    while (start < end)
+    {
+        mid = (start + end) / 2;
+        if (list[mid] == icd_code)
+            return 1;
+        if (list[mid] > icd_code)
+            end = mid;
+        else
+            start = mid + 1;
+    }
+    return 0;
+}
+
+int is_ICD_in_list(struct ID_node node, int *task_ICD_list, int task_ICD_list_size)
+{
+    for (int i = 0; i < node.ICD_CODE_NUM; i++)
+        if (icd_search(task_ICD_list, 0, task_ICD_list_size, node.ICD_CODE[i]))
+            return 1;
+    return 0;
 }

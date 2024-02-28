@@ -1,10 +1,10 @@
 #include "consts.h"
 
-char *OUTPUT_DIR = "/test/log/";  //log output path
+char *OUTPUT_DIR = "/vol8/home/hnu_xiaolab_5/mimic/output/";
 #ifdef MIMICIII
-char *data_path = "/abc/mimiciii/";	//Directory containing the raw CSV files of the MIMIC-III dataset.
+char *data_path = "/vol8/home/hnu_xiaolab_5/mimic/data/mimiciii/";
 #elif defined MIMICIV
-char *data_path = "/abc/mimiciv/";	//Directory containing the raw CSV files of the MIMIC-IV dataset.
+char *data_path = "/vol8/home/hnu_xiaolab_5/mimic/data/mimiciv/";
 #endif
 
 unsigned int hash_table_len = 0;

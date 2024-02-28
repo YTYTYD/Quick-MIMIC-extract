@@ -3,7 +3,7 @@
 int listenfd, connfd;
 struct sockaddr_in servaddr;
 unsigned char *recv_buffer;
-const int NET_RECV_MAX_LEN = 4096;
+const int NET_RECV_MAX_LEN = 32768;
 
 int network_init()
 {
@@ -40,6 +40,11 @@ int buff_to_int(unsigned char *buff)
     return ((unsigned)buff[3] << 24) + ((unsigned)buff[2] << 16) + ((unsigned)buff[1] << 8) + (unsigned)buff[0];
 }
 
+int int_cmpfunc (const void * a, const void * b)
+{
+   return ( *(int*)a - *(int*)b );
+}
+
 struct task data_unpack(unsigned char *buffer, int buffer_size)
 {
     struct task new_task;
@@ -63,6 +68,7 @@ struct task data_unpack(unsigned char *buffer, int buffer_size)
         new_task.ICD_list[i] = buff_to_int(buffer + buffer_index);
         buffer_index += 4;
     }
+    qsort(new_task.ICD_list, new_task.ICD_list_size, sizeof(int), int_cmpfunc);
     new_task.feature_ids = (struct Feature_ID *)malloc(new_task.feature_ids_size * sizeof(struct Feature_ID));
     memset(new_task.feature_ids, -1, new_task.feature_ids_size * sizeof(struct Feature_ID));
     for (i = 0; i < new_task.feature_ids_size; i++)

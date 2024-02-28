@@ -9,12 +9,14 @@
 
 extern const int ID_LEN;
 extern char DIAGNOSES_ICD[512];
+extern const int MAX_ICD_CODE_NUM;
 
 struct ID_node
 {
     int HADM_ID;
     int SUBJECT_ID;
-    int ICD_CODE;
+    int *ICD_CODE;
+    int ICD_CODE_NUM;
 };
 
 
@@ -31,3 +33,5 @@ int is_id_in_list(struct ID_node *list, int list_size, int HADM_ID);
 int id_cmp(const void *a, const void *b);
 
 void id_extract(struct ID_node **result, int *r_size, int MPI_rank, int MPI_size);
+
+int is_ICD_in_list(struct ID_node node, int *task_ICD_list, int task_ICD_list_size);
