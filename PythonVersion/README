@@ -1,1 +1,29 @@
+# How to Run
 
+This plan consists of two parts. One part is a database query program written in SQL for extracting data; the other part is an extraction script written by the user in Python for integrating the extracted data.
+
+## Compiling the Extraction Program:
+### Environment Setup
+1. Ensure MS SQL Server is installed on your device. We use MS SQL Server 2019 and import MIMIC data into the database.
+2. Ensure pymssql is installed on your device to connect to MS SQL Server, you can use pip install pymssql.
+3. If parallel processing is needed, install multiprocessing with pip install multiprocessing.
+
+### Program Import
+4. Run .sql files in MS SQL Server, including check_subject.sql, drug_diff.sql, text.sql, timeframe+static+timeseries.sql.
+5. Configure the database connection in Python and run the .py file MIMIC-III_multi_extrat.py:
+
+"""Configuration"""
+server='127.0.0.1'  # Server IP address
+user ='sa'  # Username
+password='123456'  # Password
+database='mimic4'  # Database name
+# port='1433'
+"""Connect to the database"""
+conn = pymssql.connect(server, user, password, database)
+cursor = conn.cursor()
+
+4. Modify the output address at line 156 in MIMIC-III_multi_extrat.py:   
+with open(r'C://Users//pdl//Desktop//csv//'+str(HADM_ID)+".csv", "w", newline='') as f:
+
+## Output Results:
+Examples in Quick-MIMIC-extract/Sample of Extraction Results/
