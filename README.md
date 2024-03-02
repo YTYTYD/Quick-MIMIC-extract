@@ -28,7 +28,7 @@ Other .sql files should be stored in the sql database to be called in the main p
 
 In addition, we propose a pipeline parallelization method to reduce the time of data extraction
 
-#This work
+## This work   
 Quick-MIMIC: A Multimodal Data Extraction Pipeline for MIMIC with Parallelization   
 Yutao Dou^12, Wei Li^2, Albert Y. Zomaya^2, and Shaoliang Peng^1   
 1：Hunan University 2：University of Sydney  
