@@ -28,6 +28,7 @@ After the extraction program is started, it listens for requests on port 9812 by
 
 
 ## python extract script：
+sdk: https://github.com/YTYTYD/ParaMET.git
 
 1. Copy the `extsdk` folder to the directory where your Python code is located. The `extsdk` folder should be inside the `pythonsdk` directory.
 2. Run the previously compiled `extracter` executable file.
